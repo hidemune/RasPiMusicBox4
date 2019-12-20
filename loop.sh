@@ -2,8 +2,8 @@
 
 #unclutter -idle 0.5 -root -visible &
 
-volume=80
-./volume.sh 80
+volume=90
+./volume.sh 90
 
 while true :
 do

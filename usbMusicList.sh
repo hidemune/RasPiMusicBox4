@@ -1,6 +1,6 @@
 #!/bin/bash
 
-/home/pi/git/RasPiMusicBox4/
+cd /home/pi/git/RasPiMusicBox4/
 ./volume.sh 100
 
 echo "準備を開始します。" > talk.txt

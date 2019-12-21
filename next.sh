@@ -12,16 +12,12 @@ if [ "${preNum}" == "" ] ; then
   preNum=-1
 fi
 
-rnd=$(echo $RANDOM*32768+$RANDOM | bc)
+rnd=$(echo "$preNum + 1" | bc)
 
-for i in {1..32}; do
-  nextNum=$(($rnd % $num_images))
-  if [ "${preNum}" != "${nextNum}" ] ; then
-    preNum=${nextNum}
-    echo $preNum > preNum
-    break
-  fi
-done
+nextNum=$(($rnd % $num_images))
+
+preNum=${nextNum}
+echo $preNum > preNum
 
 echo $nextNum
 IFS='	' fileNm=(${images[$nextNum]})

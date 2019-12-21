@@ -38,7 +38,7 @@ for f in $(find ${musicpath} -type f -not -path "*/playerSetting/*"); do
     title=$f
   fi
 
-  sortkey="${artist}${album}${num}====="
+  sortkey="${fname}====="
 
   echo -e "${sortkey}${fname}\t${artist}\t${album}\t${title}\t${vol}" >> all.csv
   i=$(echo $i+1 | bc)

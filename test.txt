@@ -1,0 +1,5 @@
+Driver version is 2.1.0.
+Joystick (Austgame Mobile Game Pad) has 3 axes (X, Y, (null))
+and 4 buttons (Btn0, Btn1, Btn2, Btn3).
+Testing ... (interrupt to exit)
+Axes:  0:     0  1:     0  2:     0 Buttons:  0:off  1:off  2:off  3:off Axes:  0:     0  1:     0  2:     0 Buttons:  0:off  1:off  2:off  3:off Axes:  0:     0  1:     0  2:     0 Buttons:  0:off  1:off  2:off  3:off Axes:  0:     0  1:     0  2:     0 Buttons:  0:off  1:off  2:off  3:off Axes:  0:     0  1:     0  2:     0 Buttons:  0:off  1:off  2:off  3:off Axes:  0:     0  1:     0  2:     0 Buttons:  0:off  1:off  2:off  3:off Axes:  0:     0  1:     0  2:     0 Buttons:  0:off  1:off  2:off  3:off 

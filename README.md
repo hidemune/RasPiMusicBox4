@@ -19,4 +19,5 @@ sudo apt-get install open-jtalk open-jtalk-mecab-naist-jdic hts-voice-nitech-jp-
 sudo apt-get install -y bc xdotool 
 sudo apt-get install -y flac sox libsox-fmt-all
 sudo apt-get install -y ffmpeg
+sudo apt-get install -y jstest-gtk
 ```

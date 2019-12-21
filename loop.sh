@@ -24,6 +24,20 @@ do
       echo `echo "$(cat ./preNum) - 1" | bc` > preNum
       sudo killall play
       sudo kill -9 `pgrep vlc`
+    elif [ "$(echo $inp | grep ' 1: 32767')" != "" ];then
+      #Volume down
+      volume=$(echo "$volume - 5" | bc)
+      if [ $volume -lt 50 ]; then
+        volume=50
+      fi
+      ./volume.sh ${vol}
+    elif [ "$(echo $inp | grep ' 1:-32767')" != "" ];then
+      #Volume up
+      volume=$(echo "$volume + 5" | bc)
+      if [ $volume -gt 100 ]; then
+        volume=100
+      fi
+      ./volume.sh ${vol}
     fi
     mode=1 #RANDOM:1
     if [[ $(pgrep play || pgrep vlc) ]]; then
@@ -49,21 +63,6 @@ do
     sudo killall play
     sudo kill -9 `pgrep vlc`
     exit 0
-  fi
-  # CANCEL !
-  if [ -f /var/lib/tomcat8/webapps/ROOT/cancel ] ; then
-    rm /var/lib/tomcat8/webapps/ROOT/cancel
-    #trap 'wait $PID' EXIT
-    echo CANCEL !!
-    sudo killall play
-    sudo kill -9 `pgrep vlc`
-    break
-  fi
-  # Volume set
-  if [ -f /var/lib/tomcat8/webapps/ROOT/volume ] ; then
-    vol=`cat /var/lib/tomcat8/webapps/ROOT/volume`
-    #echo VOLUME : ${vol}
-    ./volume.sh ${vol}
   fi
 
   #echo Sleep-B

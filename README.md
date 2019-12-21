@@ -21,3 +21,9 @@ sudo apt-get install -y flac sox libsox-fmt-all
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y jstest-gtk
 ```
+
+# Start
+
+```
+sudo /home/pi/git/RasPiMusicBox4/start.sh
+```

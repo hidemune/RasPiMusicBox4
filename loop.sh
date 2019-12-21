@@ -9,7 +9,7 @@ jstest /dev/input/js0 > /run/js0.txt &
 
 while true :
 do
-  # to RANDOM
+  # Joypad : Next mode
   if [ -e /dev/input/js0 ] ; then
     #input
     #echo input !
@@ -30,14 +30,14 @@ do
       if [ $volume -lt 50 ]; then
         volume=50
       fi
-      ./volume.sh ${vol}
+      ./volume.sh ${volume}
     elif [ "$(echo $inp | grep ' 1:-32767')" != "" ];then
       #Volume up
       volume=$(echo "$volume + 5" | bc)
       if [ $volume -gt 100 ]; then
         volume=100
       fi
-      ./volume.sh ${vol}
+      ./volume.sh ${volume}
     fi
     mode=1 #RANDOM:1
     if [[ $(pgrep play || pgrep vlc) ]]; then
@@ -47,6 +47,7 @@ do
       ./next.sh
     fi
   else
+    # No Joydad : Random mode
     mode=1 #RANDOM:1
     if [[ $(pgrep play || pgrep vlc) ]]; then
       :
@@ -54,15 +55,6 @@ do
       echo Random Shell !
       ./random.sh
     fi
-  fi
-  
-  # STOP !
-  if [ -f /var/lib/tomcat8/webapps/ROOT/stop ] ; then
-    #trap 'wait $PID' EXIT
-    echo STOP !!!
-    sudo killall play
-    sudo kill -9 `pgrep vlc`
-    exit 0
   fi
 
   #echo Sleep-B

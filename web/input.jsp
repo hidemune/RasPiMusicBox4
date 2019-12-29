@@ -254,7 +254,7 @@ objBr.close();
       </select>
 </td>
 </tr>
-<tr>
+<!-- tr>
 <td>
       Youtube検索ワード:
 </td><td>
@@ -273,7 +273,7 @@ objBr.close();
 %>
       </select>
 </td>
-</tr>
+</tr -->
 </table>
 
       <input type="submit" value="検索" />

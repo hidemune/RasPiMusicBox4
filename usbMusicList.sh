@@ -31,7 +31,7 @@ if [ $? -gt 0 ] ; then
   else
     # Diff!
     sudo cp -f work.txt bkup.txt
-    ./makeCSV.sh ${MusicDir}
+    sudo ./makeCSV.sh ${MusicDir}
     sudo ./loop.sh
   fi
 
@@ -59,7 +59,7 @@ else
   # Diff!
   sudo cp -f work.txt bkup.txt
   sudo cp -f bkup.txt $(lsblk -n -o MOUNTPOINT /dev/${DEVICE})/playerSetting/bkup.txt
-  ./makeCSV.sh $(lsblk -n -o MOUNTPOINT /dev/${DEVICE})
+  sudo ./makeCSV.sh $(lsblk -n -o MOUNTPOINT /dev/${DEVICE})
   sudo cp -f *.csv $(lsblk -n -o MOUNTPOINT /dev/${DEVICE})/playerSetting/
   sync
   sudo ./loop.sh

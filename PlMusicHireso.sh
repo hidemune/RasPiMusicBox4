@@ -5,7 +5,7 @@ effect=$3
 
 echo Play : 「"$1"」vol: ${volume}
 
-if [ "$(xdpyinfo 2>/dev/null)" == "" ]; then
+#if [ "$(xdpyinfo 2>/dev/null)" == "" ]; then
 #Audio only
 
   ext4=$(echo $1 | rev | cut -c 1-4 | rev)
@@ -45,10 +45,10 @@ if [ "$(xdpyinfo 2>/dev/null)" == "" ]; then
     #fi
   fi
   
-else
+#else
 #Video mode
 
-  sudo -u pi cvlc --play-and-exit "$1" &
-fi
+#  sudo -u pi cvlc --play-and-exit "$1" &
+#fi
 
 echo Player started.

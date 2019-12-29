@@ -19,15 +19,16 @@ for f in $(find ${musicpath} -type f -not -path "*/playerSetting/*"); do
   if [[ ${vstr} =~ ^.*\(([0-9]+)\)$ ]]; then
     vol=${BASH_REMATCH[1]}
   fi
-  text="$(ffprobe "$f" 2>/dev/null)"
+  text=`ffprobe "$f" 2>&1`
   echo "$text"
   tracknumber="    "$(echo "$text" | grep -m 1 -i " track " | awk '{ sub("[^.]* : ",""); print $0; }')
   num=$(echo ${tracknumber} | rev | cut -c 1-3 | rev)
 
-  artist=$(echo "$text" | grep -m 1 -i " ARTIST " | awk '{ sub("[^.]* : ",""); print $0; }')
-  album=$(echo "$text" | grep -m 1 -i " ALBUM " | awk '{ sub("[^.]* : ",""); print $0; }')
-  title=$(echo "$text" | grep -m 1 -i " TITLE " | awk '{ sub("[^.]* : ",""); print $0; }')
+  artist=$(echo "$text" | grep -m 1 -i " ARTIST " | awk '{ sub("^[.]* : ",""); print $0; }')
+  album=$(echo "$text" | grep -m 1 -i " ALBUM " | awk '{ sub("^[.]* : ",""); print $0; }')
+  title=$(echo "$text" | grep -m 1 -i " TITLE " | awk '{ sub("^[.]* : ",""); print $0; }')
 
+  echo $artist / $album / $title
   if [ "${artist}" == "" ]; then
     artist="-"
   fi
@@ -35,12 +36,12 @@ for f in $(find ${musicpath} -type f -not -path "*/playerSetting/*"); do
     album="-"
   fi
   if [ "${title}" == "" ]; then
-    title=$f
+    title="$f"
   fi
 
   sortkey="${fname}====="
 
-  echo -e "${sortkey}${fname}\t${artist}\t${album}\t${title}\t${vol}" >> all.csv
+  echo -e "${fname}\t${artist}\t${album}\t${title}\t${vol}" >> all.csv
   i=$(echo $i+1 | bc)
   if [ $(( $i % 25 )) -eq 0 ]; then
     aplay decision3.wav &
@@ -50,8 +51,9 @@ done
 sort all.csv > all_dayly.csv
 rm -f all.csv
 while read p; do
-  echo $(echo "$p" | awk '{ sub("^.*=====",""); print $0; }') >> all.csv
+  echo $(echo "$p" | awk '{ sub("^[.]*=====",""); print $0; }') >> all.csv
 done <all_dayly.csv
 
 cp -f all.csv all_dayly.csv
 cp -f all.csv all_nightly.csv
+sync

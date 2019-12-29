@@ -2,6 +2,9 @@
 
 rm -f /var/lib/tomcat8/webapps/ROOT/start
 
+sudo cp *.csv /var/lib/tomcat8/webapps/ROOT/
+sudo chmod 777 /var/lib/tomcat8/webapps/ROOT/*.csv
+
 #unclutter -idle 0.5 -root -visible &
 
 while true :

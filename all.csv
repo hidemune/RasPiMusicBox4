@@ -195,10 +195,10 @@
 /home/pi/mount/mp3/Pizzicato Five - pizzicato five TYO/12 - マジックカーペットライド.mp3	    artist          : Pizzicato Five	    album           : pizzicato five TYO	    title           : マジック・カーペット・ライド	80
 /home/pi/mount/mp3/Pizzicato Five - pizzicato five TYO/13 - We Love Pizzicato Five.mp3	    artist          : Pizzicato Five	    album           : pizzicato five TYO	    title           : We Love Pizzicato Five	80
 /home/pi/mount/mp3/Pizzicato Five - pizzicato five TYO/14 - 万事快調.mp3	    artist          : Pizzicato Five	    album           : pizzicato five TYO	    title           : 万事快調	80
-/home/pi/mount/record192/Niagara/NiagaraTriangleVol2_a.flac	    ARTIST          : NiagaraTriangle	      replaygain: track gain - -1.830000, track peak - 0.000023, album gain - -1.830000, album peak - 0.000023, 	/home/pi/mount/record192/Niagara/NiagaraTriangleVol2_a.flac	80
-/home/pi/mount/record192/Niagara/NiagaraTriangleVol2_b.flac	    ARTIST          : NiagaraTriangle	      replaygain: track gain - -2.240000, track peak - 0.000023, album gain - -2.240000, album peak - 0.000023, 	/home/pi/mount/record192/Niagara/NiagaraTriangleVol2_b.flac	80
-/home/pi/mount/record192/RichardClayderman/RichardClayderman_a.flac	    ARTIST          : RichardClayderman	      replaygain: track gain - -2.250000, track peak - 0.000023, album gain - -2.250000, album peak - 0.000023, 	/home/pi/mount/record192/RichardClayderman/RichardClayderman_a.flac	80
-/home/pi/mount/record192/RichardClayderman/RichardClayderman_b.flac	    ARTIST          : RichardClayderman	      replaygain: track gain - -2.360000, track peak - 0.000023, album gain - -2.360000, album peak - 0.000023, 	/home/pi/mount/record192/RichardClayderman/RichardClayderman_b.flac	80
+/home/pi/mount/record192/Niagara/NiagaraTriangleVol2_a.flac	    ARTIST          : NiagaraTriangle	-	/home/pi/mount/record192/Niagara/NiagaraTriangleVol2_a.flac	80
+/home/pi/mount/record192/Niagara/NiagaraTriangleVol2_b.flac	    ARTIST          : NiagaraTriangle	-	/home/pi/mount/record192/Niagara/NiagaraTriangleVol2_b.flac	80
+/home/pi/mount/record192/RichardClayderman/RichardClayderman_a.flac	    ARTIST          : RichardClayderman	-	/home/pi/mount/record192/RichardClayderman/RichardClayderman_a.flac	80
+/home/pi/mount/record192/RichardClayderman/RichardClayderman_b.flac	    ARTIST          : RichardClayderman	-	/home/pi/mount/record192/RichardClayderman/RichardClayderman_b.flac	80
 /home/pi/mount/record192/RichardClayderman/リチャード・クレイダーマン/1-0007187140.flac	    ARTIST          : リチャード・クレイダーマン(ピアノ)	    ALBUM           : リチャード・クレイダーマン ◎ ハイレゾ・ベスト	    TITLE           : 渚のアデリーヌ (Paul de Senneville)	80
 /home/pi/mount/record192/RichardClayderman/リチャード・クレイダーマン/10-0007187149.flac	    ARTIST          : リチャード・クレイダーマン(ピアノ)	    ALBUM           : リチャード・クレイダーマン ◎ ハイレゾ・ベスト	    TITLE           : ホフマンの舟歌 (Offenbach - Arr. O.Toussaint - G.Salesses)	80
 /home/pi/mount/record192/RichardClayderman/リチャード・クレイダーマン/11-0007187150.flac	    ARTIST          : リチャード・クレイダーマン(ピアノ)	    ALBUM           : リチャード・クレイダーマン ◎ ハイレゾ・ベスト	    TITLE           : 恋はみずいろ (A. Popp - P. Cour - B. Blackburn)	80
@@ -225,19 +225,19 @@
 /home/pi/mount/record192/iruka/iruka_tiisanasota_1.flac	-	-	/home/pi/mount/record192/iruka/iruka_tiisanasota_1.flac	80
 /home/pi/mount/record192/iruka/iruka_tiisanasota_2.flac	-	-	/home/pi/mount/record192/iruka/iruka_tiisanasota_2.flac	80
 /home/pi/mount/record192/offcourse/AsCloseAsPossible_a.flac	    ARTIST          : OffCourse	-	/home/pi/mount/record192/offcourse/AsCloseAsPossible_a.flac	80
-/home/pi/mount/record192/offcourse/AsCloseAsPossible_b.flac	    ARTIST          : OffCourse	      replaygain: track gain - -4.980000, track peak - 0.000023, album gain - -4.980000, album peak - 0.000023, 	/home/pi/mount/record192/offcourse/AsCloseAsPossible_b.flac	80
-/home/pi/mount/record192/offcourse/BestYearOfMyLife_a.flac	    ARTIST          : OffCourse	      replaygain: track gain - -6.010000, track peak - 0.000023, album gain - -6.010000, album peak - 0.000023, 	/home/pi/mount/record192/offcourse/BestYearOfMyLife_a.flac	80
-/home/pi/mount/record192/offcourse/BestYearOfMyLife_b.flac	    ARTIST          : OffCourse	      replaygain: track gain - -5.100000, track peak - 0.000023, album gain - -5.100000, album peak - 0.000023, 	/home/pi/mount/record192/offcourse/BestYearOfMyLife_b.flac	80
-/home/pi/mount/record192/offcourse/K_Oda_a2.flac	    ARTIST          : 小田和正	      replaygain: track gain - -5.090000, track peak - 0.000023, album gain - -5.090000, album peak - 0.000023, 	/home/pi/mount/record192/offcourse/K_Oda_a2.flac	80
-/home/pi/mount/record192/offcourse/K_Oda_b.flac	    ARTIST          : 小田和正	      replaygain: track gain - -4.460000, track peak - 0.000023, album gain - -4.460000, album peak - 0.000023, 	/home/pi/mount/record192/offcourse/K_Oda_b.flac	80
-/home/pi/mount/record192/offcourse/OffCourse_BackStreetsOfTokyo_a.flac	    ARTIST          : OffCourse	      replaygain: track gain - -5.860000, track peak - 0.000023, album gain - -5.860000, album peak - 0.000023, 	/home/pi/mount/record192/offcourse/OffCourse_BackStreetsOfTokyo_a.flac	80
-/home/pi/mount/record192/offcourse/OffCourse_BackStreetsOfTokyo_b.flac	    ARTIST          : OffCourse	      replaygain: track gain - -5.310000, track peak - 0.000023, album gain - -5.310000, album peak - 0.000023, 	/home/pi/mount/record192/offcourse/OffCourse_BackStreetsOfTokyo_b.flac	80
-/home/pi/mount/record192/offcourse/OffCourse_Selection1973-78_a.flac	    ARTIST          : OffCourse	      replaygain: track gain - -1.030000, track peak - 0.000018, album gain - -1.030000, album peak - 0.000018, 	/home/pi/mount/record192/offcourse/OffCourse_Selection1973-78_a.flac	80
-/home/pi/mount/record192/offcourse/OffCourse_Selection1973-78_b.flac	    ARTIST          : OffCourse	      replaygain: track gain - -1.290000, track peak - 0.000021, album gain - -1.290000, album peak - 0.000021, 	/home/pi/mount/record192/offcourse/OffCourse_Selection1973-78_b.flac	80
-/home/pi/mount/record192/offcourse/OffCourse_Selection1978-81_a.flac	    ARTIST          : OffCourse	      replaygain: track gain - -2.740000, track peak - 0.000023, album gain - -2.740000, album peak - 0.000023, 	/home/pi/mount/record192/offcourse/OffCourse_Selection1978-81_a.flac	80
-/home/pi/mount/record192/offcourse/OffCourse_Selection1978-81_b.flac	    ARTIST          : OffCourse	      replaygain: track gain - -1.800000, track peak - 0.000022, album gain - -1.800000, album peak - 0.000022, 	/home/pi/mount/record192/offcourse/OffCourse_Selection1978-81_b.flac	80
-/home/pi/mount/record192/offcourse/Over_a.flac	    ARTIST          : OffCourse	      replaygain: track gain - -1.750000, track peak - 0.000023, album gain - -1.750000, album peak - 0.000023, 	/home/pi/mount/record192/offcourse/Over_a.flac	80
-/home/pi/mount/record192/offcourse/Over_b.flac	    ARTIST          : OffCourse	      replaygain: track gain - -2.310000, track peak - 0.000023, album gain - -2.310000, album peak - 0.000023, 	/home/pi/mount/record192/offcourse/Over_b.flac	80
+/home/pi/mount/record192/offcourse/AsCloseAsPossible_b.flac	    ARTIST          : OffCourse	-	/home/pi/mount/record192/offcourse/AsCloseAsPossible_b.flac	80
+/home/pi/mount/record192/offcourse/BestYearOfMyLife_a.flac	    ARTIST          : OffCourse	-	/home/pi/mount/record192/offcourse/BestYearOfMyLife_a.flac	80
+/home/pi/mount/record192/offcourse/BestYearOfMyLife_b.flac	    ARTIST          : OffCourse	-	/home/pi/mount/record192/offcourse/BestYearOfMyLife_b.flac	80
+/home/pi/mount/record192/offcourse/K_Oda_a2.flac	    ARTIST          : 小田和正	-	/home/pi/mount/record192/offcourse/K_Oda_a2.flac	80
+/home/pi/mount/record192/offcourse/K_Oda_b.flac	    ARTIST          : 小田和正	-	/home/pi/mount/record192/offcourse/K_Oda_b.flac	80
+/home/pi/mount/record192/offcourse/OffCourse_BackStreetsOfTokyo_a.flac	    ARTIST          : OffCourse	-	/home/pi/mount/record192/offcourse/OffCourse_BackStreetsOfTokyo_a.flac	80
+/home/pi/mount/record192/offcourse/OffCourse_BackStreetsOfTokyo_b.flac	    ARTIST          : OffCourse	-	/home/pi/mount/record192/offcourse/OffCourse_BackStreetsOfTokyo_b.flac	80
+/home/pi/mount/record192/offcourse/OffCourse_Selection1973-78_a.flac	    ARTIST          : OffCourse	-	/home/pi/mount/record192/offcourse/OffCourse_Selection1973-78_a.flac	80
+/home/pi/mount/record192/offcourse/OffCourse_Selection1973-78_b.flac	    ARTIST          : OffCourse	-	/home/pi/mount/record192/offcourse/OffCourse_Selection1973-78_b.flac	80
+/home/pi/mount/record192/offcourse/OffCourse_Selection1978-81_a.flac	    ARTIST          : OffCourse	-	/home/pi/mount/record192/offcourse/OffCourse_Selection1978-81_a.flac	80
+/home/pi/mount/record192/offcourse/OffCourse_Selection1978-81_b.flac	    ARTIST          : OffCourse	-	/home/pi/mount/record192/offcourse/OffCourse_Selection1978-81_b.flac	80
+/home/pi/mount/record192/offcourse/Over_a.flac	    ARTIST          : OffCourse	-	/home/pi/mount/record192/offcourse/Over_a.flac	80
+/home/pi/mount/record192/offcourse/Over_b.flac	    ARTIST          : OffCourse	-	/home/pi/mount/record192/offcourse/Over_b.flac	80
 /home/pi/mount/record192/ozaki/Ozaki_kaikisen_a.flac	-	-	/home/pi/mount/record192/ozaki/Ozaki_kaikisen_a.flac	80
 /home/pi/mount/record192/ozaki/Ozaki_kaikisen_b.flac	-	-	/home/pi/mount/record192/ozaki/Ozaki_kaikisen_b.flac	80
 /home/pi/mount/record384/Culture/CultureClub_ColourByNumbers_1.flac	-	-	/home/pi/mount/record384/Culture/CultureClub_ColourByNumbers_1.flac	80

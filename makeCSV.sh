@@ -13,21 +13,31 @@ IFS='
 '
 for f in $(find ${musicpath} -type f -not -path "*/playerSetting/*"); do
   fname="$f"
-  base=$(basename "$f")
-  vol=80
-  vstr=$(echo ${f%.*} | rev 2>/dev/null | cut -c 1-5 | rev 2>/dev/null)
-  if [[ ${vstr} =~ ^.*\(([0-9]+)\)$ ]]; then
-    vol=${BASH_REMATCH[1]}
+  ext4=$(echo ${f} | rev 2>/dev/null | cut -c 1-4 | rev 2>/dev/null)
+  if [ "$ext4" == "flac" ]; then
+    
+    text=`metaflac "$f" 2>&1`
+    artist=$(echo "$text" | grep -m 1 -i " ARTIST " | grep " : " | awk '{ sub("^[.]* : ",""); print $0; }')
+    album=$(echo "$text" | grep -m 1 -i " ALBUM " | grep " : " | awk '{ sub("^[.]* : ",""); print $0; }')
+    title=$(echo "$text" | grep -m 1 -i " TITLE " | grep " : " | awk '{ sub("^[.]* : ",""); print $0; }')
+    
+  else
+    base=$(basename "$f")
+    vol=80
+    vstr=$(echo ${f%.*} | rev 2>/dev/null | cut -c 1-5 | rev 2>/dev/null)
+    if [[ ${vstr} =~ ^.*\(([0-9]+)\)$ ]]; then
+      vol=${BASH_REMATCH[1]}
+    fi
+    text=`ffprobe "$f" 2>&1`
+    echo "$text"
+    tracknumber="    "$(echo "$text" | grep -m 1 -i " track " | awk '{ sub("[^.]* : ",""); print $0; }')
+    num=$(echo ${tracknumber} | rev | cut -c 1-3 | rev)
+
+    artist=$(echo "$text" | grep -m 1 -i " ARTIST " | grep " : " | awk '{ sub("^[.]* : ",""); print $0; }')
+    album=$(echo "$text" | grep -m 1 -i " ALBUM " | grep " : " | awk '{ sub("^[.]* : ",""); print $0; }')
+    title=$(echo "$text" | grep -m 1 -i " TITLE " | grep " : " | awk '{ sub("^[.]* : ",""); print $0; }')
   fi
-  text=`ffprobe "$f" 2>&1`
-  echo "$text"
-  tracknumber="    "$(echo "$text" | grep -m 1 -i " track " | awk '{ sub("[^.]* : ",""); print $0; }')
-  num=$(echo ${tracknumber} | rev | cut -c 1-3 | rev)
-
-  artist=$(echo "$text" | grep -m 1 -i " ARTIST " | awk '{ sub("^[.]* : ",""); print $0; }')
-  album=$(echo "$text" | grep -m 1 -i " ALBUM " | awk '{ sub("^[.]* : ",""); print $0; }')
-  title=$(echo "$text" | grep -m 1 -i " TITLE " | awk '{ sub("^[.]* : ",""); print $0; }')
-
+  
   echo $artist / $album / $title
   if [ "${artist}" == "" ]; then
     artist="-"

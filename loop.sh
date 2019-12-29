@@ -1,7 +1,18 @@
 #!/bin/bash
 
+rm -f /var/lib/tomcat8/webapps/ROOT/start
+
 #unclutter -idle 0.5 -root -visible &
 
+while true :
+do
+  if [ -e /var/lib/tomcat8/webapps/ROOT/start ] ; then
+    break
+  fi
+  sleep 1
+done
+
+mode=0
 volume=90
 ./volume.sh 90
 
@@ -9,8 +20,60 @@ jstest /dev/input/js0 > /run/js0.txt &
 
 while true :
 do
+
+  # CANCEL !
+  if [ -f /var/lib/tomcat8/webapps/ROOT/cancel ] ; then
+    sudo rm -f /var/lib/tomcat8/webapps/ROOT/cancel
+    #trap 'wait $PID' EXIT
+    echo CANCEL !!
+    sudo killall play
+    sudo kill -9 `pgrep vlc`
+  fi
+  # Volume set
+  if [ -f /var/lib/tomcat8/webapps/ROOT/volume ] ; then
+    vol=`cat /var/lib/tomcat8/webapps/ROOT/volume`
+    #echo VOLUME : ${vol}
+    ./volume.sh ${vol}
+  fi
+  # STOP !
+  if [ -f /var/lib/tomcat8/webapps/ROOT/stop ] ; then
+    #trap 'wait $PID' EXIT
+    sudo rm -f /var/lib/tomcat8/webapps/ROOT/stop
+    echo STOP !!!
+    sudo killall play
+    sudo kill -9 `pgrep vlc`
+    exit 0
+  fi
+  
+  # QUE(Yoyaku) !
+  lslst=(`ls /var/lib/tomcat8/webapps/ROOT/que* 2>/dev/null`)
+  if [ ${#lslst[*]} -gt 0 ] ; then
+    # QUE
+    if [ $mode -le 1 ]; then
+      mode=2 #QUE:2
+      if [[ $(pgrep play || pgrep vlc) ]]; then
+        echo Next Queue !
+        sudo killall play
+        sudo kill -9 `pgrep vlc`
+        # Play Queue !
+        qfiles=(`ls /var/lib/tomcat8/webapps/ROOT/que* -1 2>/dev/null`)
+        ./PlMusicHireso.sh "`sed -n 1P ${qfiles[0]}`" "`sed -n 2P ${qfiles[0]}`" "`sed -n 3P ${qfiles[0]}`"
+        mv -f ${qfiles[0]} /var/lib/tomcat8/webapps/ROOT/playque
+      fi
+    else
+      mode=2 #QUE:2
+      if [[ $(pgrep play || pgrep vlc) ]]; then
+        :
+      else
+        # Play Queue !
+        qfiles=(`ls /var/lib/tomcat8/webapps/ROOT/que* -1 2>/dev/null`)
+        ./PlMusicHireso.sh "`sed -n 1P ${qfiles[0]}`" "`sed -n 2P ${qfiles[0]}`" "`sed -n 3P ${qfiles[0]}`"
+        mv -f ${qfiles[0]} /var/lib/tomcat8/webapps/ROOT/playque
+      fi
+    fi
+  elif [ -e /dev/input/js0 ] ; then
+    mode=1 #RANDOM:1
   # Joypad : Next mode
-  if [ -e /dev/input/js0 ] ; then
     #input
     #echo input !
     sync
@@ -22,9 +85,15 @@ do
       sudo kill -9 `pgrep vlc`
     elif [ "$(echo $inp | grep ' 0:-32767')" != "" ];then
       echo Prev !
-      echo `echo "$(cat ./preNum) - 1" | bc` > preNum
+      echo `echo "$(cat ./preNum) + $(cat all.csv | wc -l) - 2" | bc` > preNum
       sudo killall play
       sudo kill -9 `pgrep vlc`
+    elif [ "$(echo $inp | grep ' 0:on')" != "" ];then
+      echo Random !
+      sudo killall play
+      sudo kill -9 `pgrep vlc`
+      echo Random Shell !
+      ./random.sh
     elif [ "$(echo $inp | grep ' 1: 32767')" != "" ];then
       #Volume down
       volume=$(echo "$volume - 5" | bc)
@@ -44,20 +113,27 @@ do
     if [[ $(pgrep play || pgrep vlc) ]]; then
       :
     else
+      rm -f /var/lib/tomcat8/webapps/ROOT/playque
       echo Next Shell !
       ./next.sh
     fi
+
   else
-    # No Joydad : Random mode
+  # No Joydad : Random mode
     mode=1 #RANDOM:1
     if [[ $(pgrep play || pgrep vlc) ]]; then
       :
     else
+      rm -f /var/lib/tomcat8/webapps/ROOT/playque
       echo Random Shell !
       ./random.sh
     fi
   fi
 
+  if [ -e /var/lib/tomcat8/webapps/ROOT/playque ]; then
+    mode=2
+  fi
+  
   #echo Sleep-B
-  sleep 1
+  sleep 1s
 done

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./vue/bootstrap.min.css"></script>
+    <script src="./vue/vue.js"></script>
+    <script src="./vue/vue-tables-2.min.js"></script>
+    <title>List</title>
+</head>
+<body>
+<!-- id="app"としてbodyの下にdivタグを作成 -->
+<h3 class="vue-title">Simple</h3>
+
+<div id="app">
+  <v-client-table :columns="columns" :data="data" :options="options">
+  </v-client-table>
+</div>
+
+<script>
+
+Vue.use(VueTables.ClientTable);
+
+new Vue({
+  el: "#app",
+  data: {
+    columns: [
+      'id',
+      'name',
+      'email'
+    ],
+    data: getData(),
+    options: {
+	    columnsDropdown: true, 
+      headings: {
+        id: 'id',
+        name: '名前',
+        email: 'メールアドレス'
+      },
+      sortable: [
+        'id', 'name'
+      ],
+      texts: {
+        filterPlaceholder: '検索する'
+      }
+    }
+  }
+});
+
+function getData() {
+  return [{
+      'id': 1,
+      'name': 'sample1',
+      'email': 'sample1@example.com',
+      'group_name': '人事部'
+    },
+    {
+      'id': 2,
+      'name': 'sample2',
+      'email': 'sample2@example.com',
+      'group_name': '人事部'
+    },
+
+    {
+      'id': 3,
+      'name': 'sample3',
+      'email': 'sample3@example.com',
+      'group_name': '経理部'
+    },
+    {
+      'id': 4,
+      'name': 'sample4',
+      'email': 'sample4@example.com',
+      'group_name': '総務部'
+    }
+  ];
+}
+
+</script><meta charset="UTF-8">
+
+</body>
+</html>
+

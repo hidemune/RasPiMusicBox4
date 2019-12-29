@@ -18,6 +18,7 @@ nextNum=$(($rnd % $num_images))
 
 preNum=${nextNum}
 echo $preNum > preNum
+sync
 
 echo $nextNum
 IFS='	' fileNm=(${images[$nextNum]})

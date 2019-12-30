@@ -318,7 +318,7 @@ new Vue({
     str1: "xxx",
     columns: [
       'url',
-      'album',
+//      'album',
       'title',
     ],
     data: getData(),

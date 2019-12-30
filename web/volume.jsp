@@ -41,7 +41,7 @@ function nextMusic() {
 <br>
 <br>
 
-<a href="volume.jsp?stop=1">
+<!-- a href="volume.jsp?stop=1">
 <button type="button" name="stop" value="1"><font size="5" color="#333399">&nbsp;&nbsp;再生終了&nbsp;&nbsp;</font>
 </button>
 <%
@@ -56,6 +56,7 @@ function nextMusic() {
     objBw.close();
   }
 %>
+-->
 
 <br>
 <br>

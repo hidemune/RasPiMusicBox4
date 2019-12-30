@@ -83,8 +83,10 @@ lxterminal -e sudo /home/pi/git/RasPiMusicBox4/usbMusicList.sh
 sudo ./usbMusicList.sh
 
 
-# うまく動画が再生されない時
+# CUI mode (No Display) on reboot
 
-vlc が、対応していない形式（.webm など）は、再生できません。
-うまく再生できない動画は、「handbrake」というソフトで、「.m4v」などの形式に変換する必要があります。
+sudo nano /etc/crontab
+
+#add
+@reboot root /home/pi/git/RasPiMusicBox4/usbMusicList.sh
 

@@ -377,49 +377,47 @@ objBr = new BufferedReader(new InputStreamReader(new FileInputStream(file),"UTF-
 line = "";
 
 int buttonid = 0;
-if (!(strTxt0.equals(""))) {
+
 int count = 0;
 while((line = objBr.readLine()) != null){
-    StringTokenizer objTkn=new StringTokenizer(line,"\n");
-    
-    while(objTkn.hasMoreTokens()){
-      String csvLine = objTkn.nextToken();
-      boolean flg = true;
-      if (csvLine.toLowerCase().indexOf(strTxt0.toLowerCase()) < 0) {
-        flg = false;
-      }
-      if (flg) {
-        String[] cols = csvLine.split("\t", -1);
-        out.println("{");
-        count = count + 1;
-        out.println("'id': 'id_" + count + "',");
-        out.println("'artist': '" + cols[1].replace("'", "’") + "',");
-        out.println("'album': '" + cols[2].replace("'", "’") + "',");
-        out.println("'title': '" + cols[3].replace("'", "’") + "',");
-        out.println("'url': '" + URLEncoder.encode(cols[0],"utf-8") + "',");
-        out.println("'volume': '" + cols[4] + "'");
-        
-        buttonid = buttonid + 1;
-        
-        out.println("    },");
-        
-      }
+  StringTokenizer objTkn=new StringTokenizer(line,"\n");
+  
+  while(objTkn.hasMoreTokens()){
+    String csvLine = objTkn.nextToken();
+    boolean flg = true;
+    if (csvLine.toLowerCase().indexOf(strTxt0.toLowerCase()) < 0) {
+      flg = false;
     }
-
+    if (flg) {
+      String[] cols = csvLine.split("\t", -1);
+      out.println("{");
+      count = count + 1;
+      out.println("'id': 'id_" + count + "',");
+      out.println("'artist': '" + cols[1].replace("'", "’") + "',");
+      out.println("'album': '" + cols[2].replace("'", "’") + "',");
+      out.println("'title': '" + cols[3].replace("'", "’") + "',");
+      out.println("'url': '" + URLEncoder.encode(cols[0],"utf-8") + "',");
+      out.println("'volume': '" + cols[4] + "'");
+      
+      buttonid = buttonid + 1;
+      
+      out.println("    },");
+      
+    }
   }
-    if (count == 0) {
-        out.println("{");
-        out.println("'id': 'id_" + count + "',");
-        out.println("'artist': '-',");
-        out.println("'album': '-',");
-        out.println("'title': '-',");
-        out.println("'url': '-',");
-        out.println("'volume': '-'");
-        
-        out.println("    },");
-    }
-
 }
+if (count == 0) {
+  out.println("{");
+  out.println("'id': 'id_" + count + "',");
+  out.println("'artist': '-',");
+  out.println("'album': '-',");
+  out.println("'title': '-',");
+  out.println("'url': '-',");
+  out.println("'volume': '-'");
+
+  out.println("    },");
+}
+
 
 if (!(strTxt1.equals(""))) {
   try {
@@ -427,7 +425,7 @@ if (!(strTxt1.equals(""))) {
     
     BufferedReader reader=new BufferedReader(new InputStreamReader(p.getInputStream()));
     String line2 = reader.readLine();
-    int count = 0;
+    count = 0;
     while(line2 != null) {
       //out.println(line2.replace("<","&lt;").replace(">","&gt;"));
       boolean flg = true;

@@ -7,13 +7,15 @@ sudo chmod 777 /var/lib/tomcat8/webapps/ROOT/*.csv
 
 #unclutter -idle 0.5 -root -visible &
 
-while true :
-do
-  if [ -e /var/lib/tomcat8/webapps/ROOT/start ] ; then
-    break
-  fi
-  sleep 1
-done
+./getIpAddress.sh
+
+#while true :
+#do
+#  if [ -e /var/lib/tomcat8/webapps/ROOT/start ] ; then
+#    break
+#  fi
+#  sleep 1
+#done
 
 mode=0
 volume=90

@@ -22,6 +22,7 @@
 /home/pi/mount/UNISON SQUARE GARDEN/UNISON SQUARE GARDEN - Bee side Sea side ~B-side Collection Album~/09 - サンタクロースは渋滞中.flac
 /home/pi/mount/UNISON SQUARE GARDEN/UNISON SQUARE GARDEN - Bee side Sea side ~B-side Collection Album~/10 - さよならサマータイムマシン (B.C mix).flac
 /home/pi/mount/UNISON SQUARE GARDEN/UNISON SQUARE GARDEN - Bee side Sea side ~B-side Collection Album~/10 - リトルタイムストップ.flac
+/home/pi/mount/UNISON SQUARE GARDEN/UNISON SQUARE GARDEN - Bee side Sea side ~B-side Collection Album~/11 - きみはいい子.ana
 /home/pi/mount/UNISON SQUARE GARDEN/UNISON SQUARE GARDEN - Bee side Sea side ~B-side Collection Album~/11 - きみはいい子.flac
 /home/pi/mount/UNISON SQUARE GARDEN/UNISON SQUARE GARDEN - Bee side Sea side ~B-side Collection Album~/11 - 誰かが忘れているかもしれない僕らに大事な001のこと (D.A mix).flac
 /home/pi/mount/UNISON SQUARE GARDEN/UNISON SQUARE GARDEN - Bee side Sea side ~B-side Collection Album~/12 - さわれない歌.flac

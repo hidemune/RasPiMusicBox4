@@ -76,7 +76,7 @@ mkdir mount
 sudo nano /etc/xdg/lxsession/LXDE-pi/autostart
 
 #add
-lxterminal -e sudo /home/pi/git/RasPiMusicBox4/Setup.txt/usbMusicList.sh
+lxterminal -e sudo /home/pi/git/RasPiMusicBox4/usbMusicList.sh
 
 
 # 実行

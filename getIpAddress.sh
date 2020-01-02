@@ -39,11 +39,13 @@ if [[ "${ip2}" == 192* ]]; then
   echo
   echo ${url}
 
+  last=$(echo ${url} | sed 's/^.*\.\([^\.]*\)$/\1/')
+  
   sudo cp -f ./all.csv /var/lib/tomcat8/webapps/ROOT/
 
   qrencode -t ansi "${url}"
   #aplay -D pluhw:1 /home/pi/git/ready.wav 2>/dev/null
-  sudo echo "以下のアドレスに、LAN経由で繋いでください。 ${url}" | sed -e "s/\./ ドット /g" -e "s/http\:\/\// /g" -e "s/\//スラッシュ /g" -e "s/:8080//g" > url.txt
+  sudo echo "$last 以下のアドレスに、LAN経由で繋いでください。 ${url}" | sed -e "s/\./ ドット /g" -e "s/http\:\/\// /g" -e "s/\//スラッシュ /g" -e "s/:8080//g" > url.txt
   sudo open_jtalk -x /var/lib/mecab/dic/open-jtalk/naist-jdic -m /usr/share/hts-voice/nitech-jp-atr503-m001/nitech_jp_atr503_m001.htsvoice -r 1.0 -ow url.wav url.txt 
 
 else

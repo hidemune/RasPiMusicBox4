@@ -16,10 +16,10 @@ for f in $(find ${musicpath} -type f -not -path "*/playerSetting/*"); do
   ext4=$(echo ${f} | rev 2>/dev/null | cut -c 1-4 | rev 2>/dev/null)
   if [ "$ext4" == "flac" ]; then
     
-    text=`metaflac "$f" 2>&1`
-    artist=$(echo "$text" | grep -m 1 -i " ARTIST " | grep " : " | awk '{ sub("^[.]* : ",""); print $0; }')
-    album=$(echo "$text" | grep -m 1 -i " ALBUM " | grep " : " | awk '{ sub("^[.]* : ",""); print $0; }')
-    title=$(echo "$text" | grep -m 1 -i " TITLE " | grep " : " | awk '{ sub("^[.]* : ",""); print $0; }')
+    text=`lltag -S "$f" 2>&1`
+    artist=$(echo "$text" | grep -m 1 -i " ARTIST=" | awk '{ sub("^[.]*=",""); print $0; }')
+    album=$(echo "$text" | grep -m 1 -i " ALBUM=" | awk '{ sub("^[.]*=",""); print $0; }')
+    title=$(echo "$text" | grep -m 1 -i " TITLE=" | awk '{ sub("^[.]*=",""); print $0; }')
     
   else
     base=$(basename "$f")

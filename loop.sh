@@ -81,7 +81,6 @@ do
   # Joypad : Next mode
     #input
     #echo input !
-    sync
     inp=$(tail -n1 /run/js0.txt)
     echo ... > /run/js0.txt
     if [ "$(echo $inp | grep ' 0: 32767')" != "" ];then

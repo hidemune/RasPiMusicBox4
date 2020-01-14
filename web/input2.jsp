@@ -19,7 +19,7 @@
 
 <div id="header"><!-- ここはヘッダです -->
 
-<a href="input.jsp" target="_top">
+<a href="input2.jsp" target="_top">
 <%
   //write
   FileWriter objFwS=new FileWriter(application.getRealPath("start"));
@@ -151,14 +151,16 @@
   <label for="toggle">(^_^)</label>
   <input type="checkbox" id="toggle">
 
-    <div id="lt"><!-- ここは左メニューです -->
+    <div id="lt2"><!-- ここは左メニューです -->
     <iframe seamless src="volume.jsp" width="100%" height="100%" frameborder="0" scrolling="auto"></iframe>
-    </div> <!-- id="lt" ここまで左メニューです -->
+    </div> <!-- id="lt2" ここまで左メニューです -->
 
 </div>
 <div id="main"><!-- ########## ここから本文です ########## -->
 <div id="main2"><!-- 縁を 20px あけるためのものです -->
 
+
+<a href="input.jsp">Sheet</a><br>
 
 
 <!-- item template -->
@@ -184,7 +186,7 @@
   </li>
 </script>
 
-<p>(You can double click on an item to turn it into a folder.)</p>
+<p>Music Tree...</p>
 
 <!-- the demo root element -->
 <ul id="demo">
@@ -269,7 +271,7 @@ function submitForm(title, filename, oops, id) {
 
 function getCsv() {
   var request = new XMLHttpRequest();
-  request.open('GET', 'all.csv', false);  // `false` で同期リクエストになる
+  request.open('GET', '../all.csv', false);  // `false` で同期リクエストになる
   request.send(null);
 
   if (request.status === 200) {
@@ -301,7 +303,7 @@ Vue.component('tree-item', {
       if (this.isFolder) {
         this.isOpen = !this.isOpen
       } else {
-        alert(this.item.fullpath + '\n' + this.item.title);
+        //alert(this.item.fullpath + '\n' + this.item.title);
         submitForm(this.item.title, encodeURIComponent(this.item.fullpath), '' , '');
       }
     },

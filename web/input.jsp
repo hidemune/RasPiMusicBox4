@@ -159,7 +159,7 @@
 <div id="main"><!-- ########## ここから本文です ########## -->
 <div id="main2"><!-- 縁を 20px あけるためのものです -->
 
-
+<a href="input2.jsp">Tree</a><br>
 
 入力： <%=strTxt0%>：<%=strTxt1%>：<%=strTxt2%>：検索します<br>
 

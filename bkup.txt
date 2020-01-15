@@ -186,276 +186,277 @@
 /home/pi/mount/Music/FLAC/Gyaian/06 SUCH IS LIFE.flac
 /home/pi/mount/Music/FLAC/Gyaian/gyaian.jpg
 /home/pi/mount/Music/FLAC/Gyaian/gyaian_songlist.jpg
-/home/pi/mount/Music/FLAC/Hireso/1-0003019287.flac
-/home/pi/mount/Music/FLAC/Hireso/1-0003746962.flac
-/home/pi/mount/Music/FLAC/Hireso/1-0004017705.flac
-/home/pi/mount/Music/FLAC/Hireso/1-0004241237.flac
-/home/pi/mount/Music/FLAC/Hireso/BOOWY/0011562875.flac
-/home/pi/mount/Music/FLAC/Hireso/BOOWY/0011562876.flac
-/home/pi/mount/Music/FLAC/Hireso/BOOWY/0011562877.flac
-/home/pi/mount/Music/FLAC/Hireso/BOOWY/0011562878.flac
-/home/pi/mount/Music/FLAC/Hireso/BOOWY/0011562879.flac
-/home/pi/mount/Music/FLAC/Hireso/BOOWY/0011562880.flac
-/home/pi/mount/Music/FLAC/Hireso/BOOWY/0011562881.flac
-/home/pi/mount/Music/FLAC/Hireso/BOOWY/0011562882.flac
-/home/pi/mount/Music/FLAC/Hireso/BOOWY/0011562883.flac
-/home/pi/mount/Music/FLAC/Hireso/BOOWY/0011562884.flac
-/home/pi/mount/Music/FLAC/Hireso/BOOWY/0011562885.flac
-/home/pi/mount/Music/FLAC/Hireso/BOOWY/0011562886.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/1-0004404866.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/10-0004404894.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/11-0004404895.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/12-0004404896.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/13-0004404897.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/14-0004404898.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/15-0004404899.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/16-0004404900.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/17-0004404901.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/18-0004404902.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/19-0004404903.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/2-0004404867.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/20-0004404909.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/21-0004404928.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/22-0004404929.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/23-0004404930.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/24-0004404933.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/3-0004404868.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/4-0004404875.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/5-0004404889.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/6-0004404890.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/7-0004404891.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/8-0004404892.flac
-/home/pi/mount/Music/FLAC/Hireso/GLAY/9-0004404893.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028068.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028069.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028070.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028071.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028072.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028073.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028074.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028075.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028076.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028077.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028078.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028079.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028080.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028081.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028082.flac
-/home/pi/mount/Music/FLAC/Hireso/GODIEGO/0008028083.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/1-0005119184.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/10-0005119201.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/11-0005119202.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/12-0005119203.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/13-0005119204.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/14-0005119205.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/15-0005119206.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/2-0005119193.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/3-0005119194.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/4-0005119195.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/5-0005119196.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/6-0005119197.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/7-0005119198.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/8-0005119199.flac
-/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/9-0005119200.flac
-/home/pi/mount/Music/FLAC/Hireso/OotukaAi/1-0003043126.flac
-/home/pi/mount/Music/FLAC/Hireso/OotukaAi/2-0003043127.flac
-/home/pi/mount/Music/FLAC/Hireso/OotukaAi/3-0003043128.flac
-/home/pi/mount/Music/FLAC/Hireso/OotukaAi/4-0003043129.flac
-/home/pi/mount/Music/FLAC/Hireso/OotukaAi/5-0003043130.flac
-/home/pi/mount/Music/FLAC/Hireso/OotukaAi/6-0003043131.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146531.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146532.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146533.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146534.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146535.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146536.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146537.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146538.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146539.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146540.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146541.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146542.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146543.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146544.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146545.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146546.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146547.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146548.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146549.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146550.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146551.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146552.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146553.flac
-/home/pi/mount/Music/FLAC/Hireso/TULIP/0011146554.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/1-0009767141.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/10-0009767165.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/11-0009767171.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/12-0009767172.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/13-0009767173.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/14-0009767174.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/15-0009767175.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/2-0009767142.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/3-0009767144.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/4-0009767145.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/5-0009767147.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/6-0009767149.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/7-0009767153.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/8-0009767160.flac
-/home/pi/mount/Music/FLAC/Hireso/TokiAsako/9-0009767161.flac
-/home/pi/mount/Music/FLAC/Hireso/YMO/0012649627.flac
-/home/pi/mount/Music/FLAC/Hireso/YMO/0012649628.flac
-/home/pi/mount/Music/FLAC/Hireso/YMO/0012649629.flac
-/home/pi/mount/Music/FLAC/Hireso/YMO/0012649630.flac
-/home/pi/mount/Music/FLAC/Hireso/YMO/0012649631.flac
-/home/pi/mount/Music/FLAC/Hireso/YMO/0012649632.flac
-/home/pi/mount/Music/FLAC/Hireso/YMO/0012649633.flac
-/home/pi/mount/Music/FLAC/Hireso/YMO/0012649634.flac
-/home/pi/mount/Music/FLAC/Hireso/classic/1-0008338801.flac
-/home/pi/mount/Music/FLAC/Hireso/classic/10-0008338810.flac
-/home/pi/mount/Music/FLAC/Hireso/classic/2-0008338802.flac
-/home/pi/mount/Music/FLAC/Hireso/classic/3-0008338803.flac
-/home/pi/mount/Music/FLAC/Hireso/classic/4-0008338804.flac
-/home/pi/mount/Music/FLAC/Hireso/classic/5-0008338805.flac
-/home/pi/mount/Music/FLAC/Hireso/classic/6-0008338806.flac
-/home/pi/mount/Music/FLAC/Hireso/classic/7-0008338807.flac
-/home/pi/mount/Music/FLAC/Hireso/classic/8-0008338808.flac
-/home/pi/mount/Music/FLAC/Hireso/classic/9-0008338809.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/0008211032.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/0008211033.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/0008211034.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/0008211035.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/0008211036.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/0008211037.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/0008211038.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/0008211039.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/0008211040.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/0008211041.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/0008211043.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/0008211007.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/0008211008.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/0008211009.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/0008211010.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/0008211011.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/0008211012.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/0008211013.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/0008211014.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/0008211015.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/0008211016.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/0008211017.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/0008211018.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/0008211020.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/0008211021.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/0008211022.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/0008211023.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/0008211024.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/0008211025.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/0008211026.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/0008211027.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/0008211028.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/0008211029.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/0008211030.4608.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/01-0005891681.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/02-0005891682.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/03-0005891683.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/04-0005891684.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/05-0005891685.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/06-0005891686.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/07-0005891687.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/08-0005891688.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/09-0005891689.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/10-0005891690.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/11-0005891691.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/12-0005891692.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/13-0005891693.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/14-0005891694.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/15-0005891695.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/16-0005891696.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/17-0005891697.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/18-0005891698.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/19-0005891699.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/best/20-0005891700.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/0005347132.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/0005347133.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/0005347134.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/0005347135.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/0005347136.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/0005347137.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/0005347138.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/0005347139.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/0005347140.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/0005347141.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/0005347142.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/0005347143.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/1-0005283673.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/10-0005283682.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/11-0005283683.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/2-0005283674.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/3-0005283675.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/4-0005283676.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/5-0005283677.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/6-0005283678.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/7-0005283679.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/8-0005283680.flac
-/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/9-0005283681.flac
-/home/pi/mount/Music/FLAC/Hireso/カラヤン/1-0003257002.flac
-/home/pi/mount/Music/FLAC/Hireso/カラヤン/10-0003257011.flac
-/home/pi/mount/Music/FLAC/Hireso/カラヤン/11-0003257012.flac
-/home/pi/mount/Music/FLAC/Hireso/カラヤン/12-0003257013.flac
-/home/pi/mount/Music/FLAC/Hireso/カラヤン/13-0003257014.flac
-/home/pi/mount/Music/FLAC/Hireso/カラヤン/2-0003257003.flac
-/home/pi/mount/Music/FLAC/Hireso/カラヤン/3-0003257004.flac
-/home/pi/mount/Music/FLAC/Hireso/カラヤン/4-0003257005.flac
-/home/pi/mount/Music/FLAC/Hireso/カラヤン/5-0003257006.flac
-/home/pi/mount/Music/FLAC/Hireso/カラヤン/6-0003257007.flac
-/home/pi/mount/Music/FLAC/Hireso/カラヤン/7-0003257008.flac
-/home/pi/mount/Music/FLAC/Hireso/カラヤン/8-0003257009.flac
-/home/pi/mount/Music/FLAC/Hireso/カラヤン/9-0003257010.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369694.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369695.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369696.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369697.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369698.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369699.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369700.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369701.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369702.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369703.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369704.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369705.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369706.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369707.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369708.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369709.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369710.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369711.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369712.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369713.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369714.flac
-/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/0003369715.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/01-0007187140.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/02-0007187141.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/03-0007187142.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/04-0007187143.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/05-0007187144.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/06-0007187145.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/07-0007187146.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/08-0007187147.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/09-0007187148.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/10-0007187149.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/11-0007187150.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/12-0007187151.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/13-0007187152.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/14-0007187153.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/15-0007187154.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/16-0007187155.flac
-/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/17-0007187156.flac
-/home/pi/mount/Music/FLAC/Hireso/丸本莉子/1-0008244907.flac
-/home/pi/mount/Music/FLAC/Hireso/丸本莉子/2-0008244908.flac
-/home/pi/mount/Music/FLAC/Hireso/丸本莉子/3-0008244909.flac
-/home/pi/mount/Music/FLAC/Hireso/丸本莉子/4-0008244910.flac
-/home/pi/mount/Music/FLAC/Hireso/丸本莉子/5-0008244911.flac
-/home/pi/mount/Music/FLAC/Hireso/丸本莉子/6-0008244912.flac
-/home/pi/mount/Music/FLAC/Hireso/丸本莉子/7-0008244913.flac
+/home/pi/mount/Music/FLAC/Hireso/01 me..flac
+/home/pi/mount/Music/FLAC/Hireso/01 you (mora ver.).flac
+/home/pi/mount/Music/FLAC/Hireso/01 まちびとの唄.flac
+/home/pi/mount/Music/FLAC/Hireso/01 エンドロール.flac
+/home/pi/mount/Music/FLAC/Hireso/BOOWY/01 LIAR GIRL.flac
+/home/pi/mount/Music/FLAC/Hireso/BOOWY/02 ANGEL PASSED CHILDREN.flac
+/home/pi/mount/Music/FLAC/Hireso/BOOWY/03 LONGER THAN FOREVER.flac
+/home/pi/mount/Music/FLAC/Hireso/BOOWY/04 GIGOLO & GIGOLET.flac
+/home/pi/mount/Music/FLAC/Hireso/BOOWY/05 RENDEZ-VOUS (LIVE IN HAMBURG JULY 1987).flac
+/home/pi/mount/Music/FLAC/Hireso/BOOWY/06 MARIONETTE.flac
+/home/pi/mount/Music/FLAC/Hireso/BOOWY/07 PLASTIC BOMB.flac
+/home/pi/mount/Music/FLAC/Hireso/BOOWY/08 PSYCHOPATH.flac
+/home/pi/mount/Music/FLAC/Hireso/BOOWY/09 CELLULOID DOLL.flac
+/home/pi/mount/Music/FLAC/Hireso/BOOWY/10 FANTASTIC STORY.flac
+/home/pi/mount/Music/FLAC/Hireso/BOOWY/11 MEMORY.flac
+/home/pi/mount/Music/FLAC/Hireso/BOOWY/12 季節が君だけを変える.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/01 とまどい(Jet the Phantom).flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/02 口唇.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/03 SHUTTER SPEEDSのテーマ.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/04 ずっと2人で….flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/05 グロリアス.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/06 a Boy ～ずっと忘れない～.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/07 生きてく強さ.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/08 HAPPY SWING.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/09 彼女のModern.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/10 SOUL LOVE.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/11 HOWEVER.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/12 I'm in Love.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/13 誘惑.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/14 生きがい.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/15 ビリビリクラッシュメン.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/16 BELOVED.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/17 HAPPINESS.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/18 サバイバル.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/19 pure soul.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/20 BE WITH YOU.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/21 Winter, again.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/22 春を愛する人.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/23 SPECIAL THANKS.flac
+/home/pi/mount/Music/FLAC/Hireso/GLAY/24 Missing You.flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/01 ビューティフル・ネーム (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/02 ハピネス (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/03 ガンダーラ (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/04 銀河鉄道999 (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/05 ホーリー&ブライト (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/06 リターン・トゥ・アフリカ (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/07 ポートピア (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/08 ナマステ (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/09 愛の3(スリー)イヤーズ (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/10 アフター・ザ・レイン (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/11 ドキ・ドキ・サマーガール (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/12 (カミング・トゥゲザー・イン)カトマンズ (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/13 ア・グッド・デイ (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/14 マジック・カプセル (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/15 僕のサラダ・ガール (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/GODIEGO/16 モンキー・マジック (24bit-96kHz).flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/01 TOMORROW.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/02 FOREVER.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/03 Alone.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/04 そのままの君でいて.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/05 泣けちゃうほど せつないけど.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/06 サヨナラ.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/07 大丈夫だよ.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/08 想い出にできなくて.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/09 Everlasting.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/10 宝物.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/11 この星空の彼方.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/12 大スキ！.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/13 Will ・・・.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/14 ANNIVERSARY.flac
+/home/pi/mount/Music/FLAC/Hireso/OkamotoMayo/15 Alone～A．O．RVersion～.flac
+/home/pi/mount/Music/FLAC/Hireso/OotukaAi/01 さくらんぼ―カクテル―.flac
+/home/pi/mount/Music/FLAC/Hireso/OotukaAi/02 CHU-LIP―蜂蜜酒―.flac
+/home/pi/mount/Music/FLAC/Hireso/OotukaAi/03 甘えんぼ―レモンティ―.flac
+/home/pi/mount/Music/FLAC/Hireso/OotukaAi/04 羽ありたまご―エスプレッソ―.flac
+/home/pi/mount/Music/FLAC/Hireso/OotukaAi/05 PEACH―ウォッカ―.flac
+/home/pi/mount/Music/FLAC/Hireso/OotukaAi/06 5:09a.m.―トニック―.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/01 魔法の黄色い靴.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/02 ハーモニー.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/03 一人の部屋.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/04 田舎へ引越そう.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/05 心の旅.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/06 夢中さ君に.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/07 夏色のおもいで.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/08 しっぽの丸い小犬.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/09 銀の指輪.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/10 セプテンバー.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/11 青春の影.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/12 一本の傘.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/13 ぼくがつくった愛のうた(いとしのEmily).flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/14 私のアイドル.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/15 サボテンの花.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/16 なくした言葉.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/17 悲しきレイン・トレイン.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/18 さよならのプレゼント.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/19 娘が嫁ぐ朝.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/20 風見鳥.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/21 風のメロディ.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/22 ともだちのあなただから.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/23 ブルー・スカイ.flac
+/home/pi/mount/Music/FLAC/Hireso/TULIP/24 恋人への手紙.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/01 STRIPE.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/02 Fancy Time.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/03 乱反射ガール.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/04 Gift ～あなたはマドンナ～(資生堂「エリクシール シュペリエル」CMソング).flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/05 熱砂の女.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/06 smilin'.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/07 Rendez-vous in '58.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/08 セ・ラ・ヴィ ～女は愛に忙しい～.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/09 僕は愛を語れない.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/10 Beautiful Day.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/11 トーキョー・ドライブ.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/12 BOYフロム世田谷.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/13 Rain Dancer.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/14 PINK.flac
+/home/pi/mount/Music/FLAC/Hireso/TokiAsako/15 FANTASY.flac
+/home/pi/mount/Music/FLAC/Hireso/YMO/01 TECHNOPOLIS(2018 Bob Ludwig Remastering).flac
+/home/pi/mount/Music/FLAC/Hireso/YMO/02 ABSOLUTE EGO DANCE(2018 Bob Ludwig Remastering).flac
+/home/pi/mount/Music/FLAC/Hireso/YMO/03 RYDEEN(2018 Bob Ludwig Remastering).flac
+/home/pi/mount/Music/FLAC/Hireso/YMO/04 CASTALIA(2018 Bob Ludwig Remastering).flac
+/home/pi/mount/Music/FLAC/Hireso/YMO/05 BEHIND THE MASK(2018 Bob Ludwig Remastering).flac
+/home/pi/mount/Music/FLAC/Hireso/YMO/06 DAY TRIPPER(2018 Bob Ludwig Remastering).flac
+/home/pi/mount/Music/FLAC/Hireso/YMO/07 INSOMNIA(2018 Bob Ludwig Remastering).flac
+/home/pi/mount/Music/FLAC/Hireso/YMO/08 SOLID STATE SURVIVOR(2018 Bob Ludwig Remastering).flac
+/home/pi/mount/Music/FLAC/Hireso/classic/01 ヴィヴァルディ_ ヴァイオリン協奏曲 ホ長調「四季」より 「春」 Op.8 No.1 RV269 - 第1楽章.flac
+/home/pi/mount/Music/FLAC/Hireso/classic/02 ロッシーニ_ 歌劇「泥棒かささぎ」 - 序曲.flac
+/home/pi/mount/Music/FLAC/Hireso/classic/03 ベルリオーズ_ 幻想交響曲 Op.14 - 第2楽章 舞踏会(コルネットのオブリガート付きヴァージョン).flac
+/home/pi/mount/Music/FLAC/Hireso/classic/04 メンデルスゾーン_ ヴァイオリン協奏曲 ホ短調 Op.64 - 第1楽章.flac
+/home/pi/mount/Music/FLAC/Hireso/classic/05 ドヴォルザーク_ 交響曲第9番 ホ短調 Op.95 「新世界より」 - 第4楽章.flac
+/home/pi/mount/Music/FLAC/Hireso/classic/06 ヤナーチェク_ シンフォニエッタ JW VI-18 - 第1楽章.flac
+/home/pi/mount/Music/FLAC/Hireso/classic/07 マーラー_ 交響曲第8番 変ホ長調 「千人の交響曲」 - 第1部 - 来たれ、創造の主なる聖霊よ_ I. 現れたまえ、創造の主、聖霊よ.flac
+/home/pi/mount/Music/FLAC/Hireso/classic/08 ラヴェル_ ボレロ.flac
+/home/pi/mount/Music/FLAC/Hireso/classic/09 ムソルグスキー_ 展覧会の絵(ブレイナーによる管弦楽編) - IX. 鶏の足の上に建つ小屋(バーバ・ヤーガ)～キエフの大門.flac
+/home/pi/mount/Music/FLAC/Hireso/classic/10 ガーシュウィン_ ラプソディ・イン・ブルー.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/01 最后の頁(ページ).flac
+/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/02 SUNDAY PARK.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/03 檸檬.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/04 魔法使いの弟子.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/05 フェリー埠頭.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/06 天文学者になればよかった.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/07 案山子.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/08 秋桜.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/09 加速度.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/10 主人公.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/11 檸檬 (シングル・ヴァージョン).flac
+/home/pi/mount/Music/FLAC/Hireso/sada/アンソロジィ/12 加速度 (シングル・ヴァージョン).flac
+/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/01 多情仏心(オーヴァチュア).flac
+/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/02 線香花火.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/03 異邦人.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/04 冗句.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/05 第三病棟.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/06 夕凪.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/07 童話作家.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/08 転宅.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/09 絵はがき坂.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/10 指定券.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/11 胡桃の日.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/帰去来/12 多情仏心(エンディング).flac
+/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/01 最終案内.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/02 つゆのあとさき.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/03 飛梅.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/04 きみのふるさと.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/05 思い出はゆりかご.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/06 セロ弾きのゴーシュ.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/07 もうひとつの雨やどり.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/08 吸殻の風景.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/09 桃花源.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/10 晩鐘.flac
+/home/pi/mount/Music/FLAC/Hireso/sada/風見鶏/11 雨やどり.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/01 水曜日の午後.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/02 でももう花はいらない.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/03 眠れぬ夜.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/04 雨の降る日に.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/05 愛の唄.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/06 秋の気配.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/07 夏の終り.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/08 愛を止めないで.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/09 思いのままに.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/10 生まれ来る子供たちのために.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/11 さよなら.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/12 Yes-No.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/13 時に愛は.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/14 一億の夜を越えて.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/15 きかせて.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/16 I LOVE YOU.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/17 愛の中へ.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/18 哀しいくらい.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/19 言葉にできない.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/best/20 YES-YES-YES.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/01 雨の降る日に.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/02 昨日への手紙.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/03 眠れぬ夜.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/04 倖せなんて.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/05 ワインの匂い.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/06 あれから君は.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/07 憂き世に.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/08 少年のように.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/09 雨よ激しく.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/10 愛の唄.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/11 幻想.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/ワインの匂い/12 老人のつぶやき.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/01 僕の贈りもの.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/02 よみがえるひととき.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/03 彼のほほえみ.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/04 水曜日の午後.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/05 地球は狭くなりました.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/06 でももう花はいらない.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/07 歩こう.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/08 ほんの少しの間だけ.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/09 貼り忘れた写真.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/10 静かな昼下がり.flac
+/home/pi/mount/Music/FLAC/Hireso/オフコース/僕の贈り物/11 さわやかな朝をむかえるために.flac
+/home/pi/mount/Music/FLAC/Hireso/カラヤン/01 モーツァルト：アイネ・クライネ・ナハトムジーク(セレナード ト長調K525)より第1楽章：アレグロ.flac
+/home/pi/mount/Music/FLAC/Hireso/カラヤン/02 モーツァルト：交響曲第40番ト短調K550より第1楽章：モルト・アレグロ.flac
+/home/pi/mount/Music/FLAC/Hireso/カラヤン/03 ヴィヴァルディ：四季 - 春 第1楽章：アレグロ.flac
+/home/pi/mount/Music/FLAC/Hireso/カラヤン/04 ワーグナー：楽劇「ローエングリン」より第3幕への前奏曲.flac
+/home/pi/mount/Music/FLAC/Hireso/カラヤン/05 チャイコフスキー：交響曲第5番ホ短調作品64より第3楽章：ワルツ(アレグロ・モデラート).flac
+/home/pi/mount/Music/FLAC/Hireso/カラヤン/06 チャイコフスキー：白鳥の湖作品20 組曲 - 情景(第2幕).flac
+/home/pi/mount/Music/FLAC/Hireso/カラヤン/07 ヨハン・シュトラウス・I：ラデツキー行進曲作品228.flac
+/home/pi/mount/Music/FLAC/Hireso/カラヤン/08 ヨハン・シュトラウス・II：トリッチ・トラッチ・ポルカ作品214.flac
+/home/pi/mount/Music/FLAC/Hireso/カラヤン/09 レスピーギ：「ローマの松」より第1部：ボルゲーゼ荘の松.flac
+/home/pi/mount/Music/FLAC/Hireso/カラヤン/10 ビゼー：「アルルの女」第2組曲より第4曲：ファランドール.flac
+/home/pi/mount/Music/FLAC/Hireso/カラヤン/11 ビゼー：「カルメン」組曲 - 第1幕への前奏曲.flac
+/home/pi/mount/Music/FLAC/Hireso/カラヤン/12 マスネ：歌劇「タイス」よりタイスの瞑想曲.flac
+/home/pi/mount/Music/FLAC/Hireso/カラヤン/13 ベートーヴェン：交響曲第9番ニ短調作品125「合唱」より第4楽章：プレスト.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/01 スカイクラッドの観測者.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/02 運命のファルファッラ.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/03 マスカレード ～ノア第三章列王新世紀編より～.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/05 A．R．.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/06 Another Heaven.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/07 Hacking to the Gate.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/08 刻司ル十二ノ盟約.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/09 宇宙エンジニア.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/10 非線形ジェニアック.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/11 プレギエーラの月夜に.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/12 LaLaLaラボリューション.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/13 禁断無敵のだーりん.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/14 永遠のベクトル.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/15 EUPHORIA ～償いのレクイエム～.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/16 難攻不落のnew gate.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/17 優しい夕暮れ.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/18 萌える世界の幻想譚.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/19 約束のパラダイム.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/20 To Be Loved.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/21 儚い記憶のかけら.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/22 Nyan☆Nyan☆Galaxy！.flac
+/home/pi/mount/Music/FLAC/Hireso/シュタインズゲート/23 虹色の光りの中で.flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/01 渚のアデリーヌ (Paul de Senneville).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/02 星空のピアニスト (P.de Senneville - O. Toussaint).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/03 恋はピンポン (O.Toussaint).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/04 想い出を売る店 (P. de Senneville - J. Baudlot - P. de Senneville).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/05 夢の中のウェディング (P. de Senneville - O. Toussaint).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/06 パンドラの旅 (O.Toussaint).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/07 ドランの微笑 (P.de Senneville - O. Toussaint).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/08 運命 '80 (Beethoven - Mozart - P. de Senneville - Slade - Arr. O.Toussaint - G. Salesses).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/09 リストの愛の夢 (Liszt - Arr. O.Toussaint - G. Salesses).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/10 ホフマンの舟歌 (Offenbach - Arr. O.Toussaint - G.Salesses).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/11 恋はみずいろ (A. Popp - P. Cour - B. Blackburn).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/12 ラヴ・ミー・テンダー (V. Matson).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/13 イエスタデイ (J.Lennon - P. McCartney).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/14 ミッシェル (J.Lennon - P. McCartney).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/15 慕情 (S.Fain - P.F. Webster).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/16 メモリー ～ミュージカル「キャッツ」より (A.L.Webber - T. Nunn - T.S. Eliot).flac
+/home/pi/mount/Music/FLAC/Hireso/リチャード・クレイダーマン/17 ララのテーマ ～映画「ドクトル・ジバゴ」より (M. Jarre - P.F. Webster - H. Ithier).flac
+/home/pi/mount/Music/FLAC/Hireso/丸本莉子/01 誰にもわからない.flac
+/home/pi/mount/Music/FLAC/Hireso/丸本莉子/02 ガーベラの空.flac
+/home/pi/mount/Music/FLAC/Hireso/丸本莉子/03 糸.flac
+/home/pi/mount/Music/FLAC/Hireso/丸本莉子/04 トロイメライ～人魚の夢～.flac
+/home/pi/mount/Music/FLAC/Hireso/丸本莉子/05 ぷれぜんと.flac
+/home/pi/mount/Music/FLAC/Hireso/丸本莉子/06 たどりつく場所.flac
+/home/pi/mount/Music/FLAC/Hireso/丸本莉子/07 ご機嫌ベイベー★.flac
 /home/pi/mount/Music/FLAC/Idolmaｓ/CHANGE!!!! (M@STER VERSION).flac
 /home/pi/mount/Music/FLAC/Idolmaｓ/Colorful Days (M@STER VERSION).flac
 /home/pi/mount/Music/FLAC/Idolmaｓ/GO MY WAY!! (M@STER VERSION).flac
@@ -479,127 +480,6 @@
 /home/pi/mount/Music/FLAC/Lily White ［園田海未（三森すずこ）、星空凛（飯田里穂）、東條希（楠田亜衣奈）］ - 微熱からMisery/03 - 微熱からMisery -Off Vocal-.flac
 /home/pi/mount/Music/FLAC/Lily White ［園田海未（三森すずこ）、星空凛（飯田里穂）、東條希（楠田亜衣奈）］ - 微熱からMisery/04 - キミのくせに！ -Off Vocal-.flac
 /home/pi/mount/Music/FLAC/Lily White ［園田海未（三森すずこ）、星空凛（飯田里穂）、東條希（楠田亜衣奈）］ - 微熱からMisery/05 - プールでトレーニング！？-Mini Drama-.flac
-/home/pi/mount/Music/FLAC/Listen To The Music/01 蒼い月の夜～Lady In Blue～.flac
-/home/pi/mount/Music/FLAC/Listen To The Music/02 海と少年.flac
-/home/pi/mount/Music/FLAC/Listen To The Music/03 秋の気配.flac
-/home/pi/mount/Music/FLAC/Listen To The Music/04 Rain.flac
-/home/pi/mount/Music/FLAC/Listen To The Music/05 ミス・ブランニュー・デイ（MISS BRAND-NEW DAY）.flac
-/home/pi/mount/Music/FLAC/Listen To The Music/06 君に、胸キュン。.flac
-/home/pi/mount/Music/FLAC/Listen To The Music/07 David.flac
-/home/pi/mount/Music/FLAC/Listen To The Music/08 朧月夜.flac
-/home/pi/mount/Music/FLAC/Listen To The Music/09 春よ、来い.flac
-/home/pi/mount/Music/FLAC/Listen To The Music/10 MONKEY MAGIC.flac
-/home/pi/mount/Music/FLAC/Listen To The Music/11 空と君のあいだに.flac
-/home/pi/mount/Music/FLAC/Listen To The Music/12 月の舟.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Lovable People/01 - Theme for Lovable People.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Lovable People/02 - ミタテ.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Lovable People/03 - Life Goes On~like nonstop music~.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Lovable People/04 - 可愛い人.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Lovable People/05 - 君の書く僕の名前.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Lovable People/06 - 鋭く尖った細い月.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Lovable People/07 - 新しいドア.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Lovable People/08 - Once Upon A Long Ago.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Lovable People/09 - 言わせて下さい.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Lovable People/10 - Fall.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Lovable People/11 - Elderflower Cordial.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Lovable People/12 - 君への愛の唄.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Lovable People/13 - Alone.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - PHARMACY/01 - INVITATION (INSTRUMENTAL).flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - PHARMACY/02 - HOME WORK.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - PHARMACY/03 - DARLING.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - PHARMACY/04 - 2つの願い (VERSION II).flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - PHARMACY/05 - LONESOME COWBOY.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - PHARMACY/06 - TWO MOONS.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - PHARMACY/07 - SPY.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - PHARMACY/08 - 花水木.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - PHARMACY/09 - OCTAVERS.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - PHARMACY/10 - 今年の冬.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - PHARMACY/11 - 恋はめんどくさい？.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - PHARMACY/12 - 東京DAYS.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Such a Lovely Place/01 - うたたね.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Such a Lovely Place/02 - Fan Club Song.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Such a Lovely Place/03 - Cleaning Man.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Such a Lovely Place/04 - モンタージュ.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Such a Lovely Place/05 - 手をつないで帰ろ.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Such a Lovely Place/06 - 素直 〜Album Version〜.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Such a Lovely Place/07 - 情熱 〜Album Version〜.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Such a Lovely Place/08 - 印度式.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Such a Lovely Place/09 - 僕のものになればいいのに.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Such a Lovely Place/10 - 足音.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - Such a Lovely Place/11 - Such a Lovely Place.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - UNDERWEAR/UNDERWEAR01 - 男はつらいっすねぇ.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - UNDERWEAR/UNDERWEAR02 - PENGUIN.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - UNDERWEAR/UNDERWEAR03 - どうしようもない僕に天使が降りてきた.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - UNDERWEAR/UNDERWEAR04 - 君の自転車.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - UNDERWEAR/UNDERWEAR05 - うん.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - UNDERWEAR/UNDERWEAR06 - I need you. (ALBUM VERSION).flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - UNDERWEAR/UNDERWEAR07 - revenge.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - UNDERWEAR/UNDERWEAR08 - オオカミ少年.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - UNDERWEAR/UNDERWEAR09 - THE END OF THE WORLD.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - UNDERWEAR/UNDERWEAR10 - PAIN.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - UNDERWEAR/UNDERWEAR11 - LOVE LETTER.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - UNDERWEAR/UNDERWEAR12 - まだ見ぬ君へ.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/01 - 槇原敬之 - Hey Yo!.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/02 - 槇原敬之 - Cowboy (Album Mix).flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/03 - 槇原敬之 - The Lover In You.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/04 - 槇原敬之 - Running Out Of Daydreams.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/05 - 槇原敬之 - Day And Night.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/06 - 槇原敬之 - 9 X Forever.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/07 - 槇原敬之 - My Eyes Adored You.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/08 - 槇原敬之 - I Can Feel Your Heart.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/09 - 槇原敬之 - Secret Heaven (Album Version).flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/10 - 槇原敬之 - Limit's Of Love.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/11 - 槇原敬之 - I'm Not Gonna Fall In Love.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/12 - 槇原敬之 - Bye Bye Cowboy.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/13 - 槇原敬之 - If You Believe In Love.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ほんの少しだけ/01 - ほんの少しだけ feat.KURO from HOME MADE 家族.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ほんの少しだけ/02 - Gazer.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ほんの少しだけ/03 - ほんの少しだけ (Backing Track).flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - ほんの少しだけ/04 - Gazer (Backing Track).flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君が笑うとき君の胸が痛まないように/01 - ANSWER.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君が笑うとき君の胸が痛まないように/02 - RAIN DANCE MUSIC.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君が笑うとき君の胸が痛まないように/03 - 80km_hの気持ち.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君が笑うとき君の胸が痛まないように/04 - 12月の魔法.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君が笑うとき君の胸が痛まないように/05 - 桜坂.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君が笑うとき君の胸が痛まないように/06 - CLOSE TO YOU.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君が笑うとき君の胸が痛まないように/07 - NG.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君が笑うとき君の胸が痛まないように/08 - FISH.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君が笑うとき君の胸が痛まないように/09 - 君を抱いたら.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君が笑うとき君の胸が痛まないように/10 - 北風.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は誰と幸せなあくびをしますか。/01 - どんなときも。 ～Instrumental Version～.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は誰と幸せなあくびをしますか。/02 - 僕の彼女はウェイトレス.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は誰と幸せなあくびをしますか。/03 - AFTER GLOW.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は誰と幸せなあくびをしますか。/04 - Necessary.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は誰と幸せなあくびをしますか。/05 - 満月の夜.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は誰と幸せなあくびをしますか。/06 - EACH OTHER.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は誰と幸せなあくびをしますか。/07 - ひまわり.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は誰と幸せなあくびをしますか。/08 - CALLIN'.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は誰と幸せなあくびをしますか。/09 - 3月の雪.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は誰と幸せなあくびをしますか。/10 - 僕は大丈夫.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は誰と幸せなあくびをしますか。/11 - どんなときも。.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は僕の宝物/01 - INTRODUCTION.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は僕の宝物/02 - くもりガラスの夏.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は僕の宝物/03 - もう恋なんてしない.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は僕の宝物/04 - 三人.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は僕の宝物/05 - まばたきの間の永遠.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は僕の宝物/06 - てっぺんまでもうすぐ.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は僕の宝物/07 - 雷が鳴る前に.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は僕の宝物/08 - 涙のクリスマス.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は僕の宝物/09 - 遠く遠く.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は僕の宝物/10 - 冬がはじまるよ.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は僕の宝物/11 - 君は僕の宝物.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 君は僕の宝物/12 - 君は僕の宝物～REPRISE～.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 太陽/01 - 彗星.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 太陽/02 - キミノイイトコロ.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 太陽/03 - PLEASURE.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 太陽/04 - 濡れひよこ.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 太陽/05 - I ask..flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 太陽/06 - WILD RABBITS.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 太陽/07 - 迷わない羊.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 太陽/08 - Going Home.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 太陽/09 - SIMPLIFY.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 太陽/10 - 太陽.flac
-/home/pi/mount/Music/FLAC/Makihara/槇原敬之 - 太陽/11 - Ordinary Days.flac
 /home/pi/mount/Music/FLAC/OSTER project - Attractive Museums/01 - MARSHMALLOW HOLIC.flac
 /home/pi/mount/Music/FLAC/OSTER project - Attractive Museums/02 - POMPADOUR.flac
 /home/pi/mount/Music/FLAC/OSTER project - Attractive Museums/03 - サマーアイドル.flac
@@ -1134,20 +1014,32 @@
 /home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/UNISON SQUARE GARDEN TOUR 2019 MODE MOOD MODE ENCORE [Disc 2]/07 - UNISON SQUARE GARDEN - 春が来てぼくら [Live].flac
 /home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/UNISON SQUARE GARDEN TOUR 2019 MODE MOOD MODE ENCORE [Disc 2]/08 - UNISON SQUARE GARDEN - crazy birthday [Live].flac
 /home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/UNISON SQUARE GARDEN TOUR 2019 MODE MOOD MODE ENCORE [Disc 2]/09 - UNISON SQUARE GARDEN - Dizzy Trickster [Live].flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/01 - V.A. - WHITE ASH White Ash.flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/02 - グッドモーニングアメリカ - この世の果てまで.flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/03 - 9mm Parabellum Bullet - インスタント ミュージック.flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/04 - Base Ball Bear - Funny Bunny.flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/05 - WEAVER - スケアクロウ.flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/06 - Scars Borough - エネルギヤ.flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/07 - 東京カランコロン - ノンフィクション.flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/08 - カミナリグモ - 開かない扉の前で.flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/09 - UNISON SQUARE GARDEN - Fool on the planet.flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/10 - シュリスペイロフ - カーニバル.flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/11 - a flood of circle - Blues Drive Monster.flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/12 - ふくろうず - ハイブリッド レインボウ.flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/13 - 髭 - ストレンジ カメレオン.flac
-/home/pi/mount/Music/FLAC/V.A. - ROCK AND SYMPATHY Tribute to the pillows/14 - THE BOHEMIANS - No Substance.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/01 - V.A. - WHITE ASH White Ash.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/02 - グッドモーニングアメリカ - この世の果てまで.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/03 - 9mm Parabellum Bullet - インスタント ミュージック.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/04 - Base Ball Bear - Funny Bunny.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/05 - WEAVER - スケアクロウ.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/06 - Scars Borough - エネルギヤ.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/07 - 東京カランコロン - ノンフィクション.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/08 - カミナリグモ - 開かない扉の前で.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/09 - UNISON SQUARE GARDEN - Fool on the planet.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/10 - シュリスペイロフ - カーニバル.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/11 - a flood of circle - Blues Drive Monster.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/12 - ふくろうず - ハイブリッド レインボウ.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/13 - 髭 - ストレンジ カメレオン.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/V.A. - ROCK AND SYMPATHY Tribute to the pillows/14 - THE BOHEMIANS - No Substance.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/01 - UNISON SQUARE GARDEN - サイボーグ99%.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/02 - H ZETTRIO - あかね色 ～Instrumental～.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/03 - 花花 - ロケットで.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/04 - jizue - melody ～Instrumental～.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/05 - サカノウエヨースケ & SPIRAL SPIDERS - tu-la-la.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/06 - Hiroshi Nakamura + MASSAN - message.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/07 - 吉田ゐさお & 日之内エミ - 願い.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/08 - イズミカワソラ - タイムカプセル.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/09 - 鈴木組 - 荒野のガンマン.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/10 - 直枝政広 - 此処から.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/11 - イズミカワソラ - ソラまで.flac
+/home/pi/mount/Music/FLAC/UNISON SQUARE GARDEN/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/12 - 斎藤宏介 - 絵の具.flac
 /home/pi/mount/Music/FLAC/Various - RIDGE RACERS direct audio (disc 2)/01 - Rotterdam Nation Remix - Rotterdam Nation Remix.flac
 /home/pi/mount/Music/FLAC/Various - RIDGE RACERS direct audio (disc 2)/02 - Speedster Remix - Speedster Remix.flac
 /home/pi/mount/Music/FLAC/Various - RIDGE RACERS direct audio (disc 2)/03 - Drive U 2 Dancing Remix - Drive U 2 Dancing Remix.flac
@@ -1182,18 +1074,6 @@
 /home/pi/mount/Music/FLAC/Various - RIDGE RACERS direct audio/14 - 14_Tetsukazu Nakanishi - Tunnel Visionary.flac
 /home/pi/mount/Music/FLAC/Various - RIDGE RACERS direct audio/15 - 15_Hiroshi Okubo + Koji Nakagawa - Tek Trek.flac
 /home/pi/mount/Music/FLAC/Various - RIDGE RACERS direct audio/16 - 16_Junichi Nakaturu - Beyond.flac
-/home/pi/mount/Music/FLAC/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/01 - UNISON SQUARE GARDEN - サイボーグ99%.flac
-/home/pi/mount/Music/FLAC/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/02 - H ZETTRIO - あかね色 ～Instrumental～.flac
-/home/pi/mount/Music/FLAC/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/03 - 花花 - ロケットで.flac
-/home/pi/mount/Music/FLAC/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/04 - jizue - melody ～Instrumental～.flac
-/home/pi/mount/Music/FLAC/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/05 - サカノウエヨースケ & SPIRAL SPIDERS - tu-la-la.flac
-/home/pi/mount/Music/FLAC/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/06 - Hiroshi Nakamura + MASSAN - message.flac
-/home/pi/mount/Music/FLAC/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/07 - 吉田ゐさお & 日之内エミ - 願い.flac
-/home/pi/mount/Music/FLAC/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/08 - イズミカワソラ - タイムカプセル.flac
-/home/pi/mount/Music/FLAC/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/09 - 鈴木組 - 荒野のガンマン.flac
-/home/pi/mount/Music/FLAC/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/10 - 直枝政広 - 此処から.flac
-/home/pi/mount/Music/FLAC/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/11 - イズミカワソラ - ソラまで.flac
-/home/pi/mount/Music/FLAC/Various Artists - イズミカワソラトリビュートアルバム ～タイムカプセル～/12 - 斎藤宏介 - 絵の具.flac
 /home/pi/mount/Music/FLAC/Various Artists - 美しく青きドナウ／ウィンナ・ワルツ名曲集/01 - Various Artists - ヨハン・シュトラウス２世美しく青きドナウ.flac
 /home/pi/mount/Music/FLAC/Various Artists - 美しく青きドナウ／ウィンナ・ワルツ名曲集/02 - Various Artists - ヨハン・シュトラウス２世皇帝円舞曲.flac
 /home/pi/mount/Music/FLAC/Various Artists - 美しく青きドナウ／ウィンナ・ワルツ名曲集/03 - Various Artists - ヨハン・シュトラウス２世アンネンポルカ.flac
@@ -1946,6 +1826,127 @@
 /home/pi/mount/Music/FLAC/鈴木このみ - 『ノーゲーム・ノーライフ』OP_This game/03 - サイバーサンダーサイダー.flac
 /home/pi/mount/Music/FLAC/鈴木このみ - 『ノーゲーム・ノーライフ』OP_This game/04 - This game (Instrumental).flac
 /home/pi/mount/Music/FLAC/鈴木このみ - 『ノーゲーム・ノーライフ』OP_This game/05 - Delighting (Instrumental).flac
+/home/pi/mount/Music/FLAC/槇原敬之/Listen To The Music/01 蒼い月の夜～Lady In Blue～.flac
+/home/pi/mount/Music/FLAC/槇原敬之/Listen To The Music/02 海と少年.flac
+/home/pi/mount/Music/FLAC/槇原敬之/Listen To The Music/03 秋の気配.flac
+/home/pi/mount/Music/FLAC/槇原敬之/Listen To The Music/04 Rain.flac
+/home/pi/mount/Music/FLAC/槇原敬之/Listen To The Music/05 ミス・ブランニュー・デイ（MISS BRAND-NEW DAY）.flac
+/home/pi/mount/Music/FLAC/槇原敬之/Listen To The Music/06 君に、胸キュン。.flac
+/home/pi/mount/Music/FLAC/槇原敬之/Listen To The Music/07 David.flac
+/home/pi/mount/Music/FLAC/槇原敬之/Listen To The Music/08 朧月夜.flac
+/home/pi/mount/Music/FLAC/槇原敬之/Listen To The Music/09 春よ、来い.flac
+/home/pi/mount/Music/FLAC/槇原敬之/Listen To The Music/10 MONKEY MAGIC.flac
+/home/pi/mount/Music/FLAC/槇原敬之/Listen To The Music/11 空と君のあいだに.flac
+/home/pi/mount/Music/FLAC/槇原敬之/Listen To The Music/12 月の舟.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Lovable People/01 - Theme for Lovable People.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Lovable People/02 - ミタテ.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Lovable People/03 - Life Goes On~like nonstop music~.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Lovable People/04 - 可愛い人.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Lovable People/05 - 君の書く僕の名前.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Lovable People/06 - 鋭く尖った細い月.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Lovable People/07 - 新しいドア.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Lovable People/08 - Once Upon A Long Ago.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Lovable People/09 - 言わせて下さい.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Lovable People/10 - Fall.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Lovable People/11 - Elderflower Cordial.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Lovable People/12 - 君への愛の唄.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Lovable People/13 - Alone.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - PHARMACY/01 - INVITATION (INSTRUMENTAL).flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - PHARMACY/02 - HOME WORK.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - PHARMACY/03 - DARLING.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - PHARMACY/04 - 2つの願い (VERSION II).flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - PHARMACY/05 - LONESOME COWBOY.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - PHARMACY/06 - TWO MOONS.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - PHARMACY/07 - SPY.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - PHARMACY/08 - 花水木.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - PHARMACY/09 - OCTAVERS.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - PHARMACY/10 - 今年の冬.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - PHARMACY/11 - 恋はめんどくさい？.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - PHARMACY/12 - 東京DAYS.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Such a Lovely Place/01 - うたたね.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Such a Lovely Place/02 - Fan Club Song.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Such a Lovely Place/03 - Cleaning Man.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Such a Lovely Place/04 - モンタージュ.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Such a Lovely Place/05 - 手をつないで帰ろ.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Such a Lovely Place/06 - 素直 〜Album Version〜.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Such a Lovely Place/07 - 情熱 〜Album Version〜.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Such a Lovely Place/08 - 印度式.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Such a Lovely Place/09 - 僕のものになればいいのに.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Such a Lovely Place/10 - 足音.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - Such a Lovely Place/11 - Such a Lovely Place.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - UNDERWEAR/UNDERWEAR01 - 男はつらいっすねぇ.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - UNDERWEAR/UNDERWEAR02 - PENGUIN.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - UNDERWEAR/UNDERWEAR03 - どうしようもない僕に天使が降りてきた.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - UNDERWEAR/UNDERWEAR04 - 君の自転車.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - UNDERWEAR/UNDERWEAR05 - うん.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - UNDERWEAR/UNDERWEAR06 - I need you. (ALBUM VERSION).flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - UNDERWEAR/UNDERWEAR07 - revenge.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - UNDERWEAR/UNDERWEAR08 - オオカミ少年.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - UNDERWEAR/UNDERWEAR09 - THE END OF THE WORLD.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - UNDERWEAR/UNDERWEAR10 - PAIN.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - UNDERWEAR/UNDERWEAR11 - LOVE LETTER.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - UNDERWEAR/UNDERWEAR12 - まだ見ぬ君へ.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/01 - 槇原敬之 - Hey Yo!.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/02 - 槇原敬之 - Cowboy (Album Mix).flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/03 - 槇原敬之 - The Lover In You.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/04 - 槇原敬之 - Running Out Of Daydreams.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/05 - 槇原敬之 - Day And Night.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/06 - 槇原敬之 - 9 X Forever.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/07 - 槇原敬之 - My Eyes Adored You.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/08 - 槇原敬之 - I Can Feel Your Heart.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/09 - 槇原敬之 - Secret Heaven (Album Version).flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/10 - 槇原敬之 - Limit's Of Love.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/11 - 槇原敬之 - I'm Not Gonna Fall In Love.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/12 - 槇原敬之 - Bye Bye Cowboy.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ver10E LOVE LETTER FROM THE DIGITAL COWBOY/13 - 槇原敬之 - If You Believe In Love.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ほんの少しだけ/01 - ほんの少しだけ feat.KURO from HOME MADE 家族.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ほんの少しだけ/02 - Gazer.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ほんの少しだけ/03 - ほんの少しだけ (Backing Track).flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - ほんの少しだけ/04 - Gazer (Backing Track).flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君が笑うとき君の胸が痛まないように/01 - ANSWER.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君が笑うとき君の胸が痛まないように/02 - RAIN DANCE MUSIC.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君が笑うとき君の胸が痛まないように/03 - 80km_hの気持ち.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君が笑うとき君の胸が痛まないように/04 - 12月の魔法.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君が笑うとき君の胸が痛まないように/05 - 桜坂.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君が笑うとき君の胸が痛まないように/06 - CLOSE TO YOU.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君が笑うとき君の胸が痛まないように/07 - NG.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君が笑うとき君の胸が痛まないように/08 - FISH.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君が笑うとき君の胸が痛まないように/09 - 君を抱いたら.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君が笑うとき君の胸が痛まないように/10 - 北風.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は誰と幸せなあくびをしますか。/01 - どんなときも。 ～Instrumental Version～.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は誰と幸せなあくびをしますか。/02 - 僕の彼女はウェイトレス.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は誰と幸せなあくびをしますか。/03 - AFTER GLOW.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は誰と幸せなあくびをしますか。/04 - Necessary.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は誰と幸せなあくびをしますか。/05 - 満月の夜.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は誰と幸せなあくびをしますか。/06 - EACH OTHER.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は誰と幸せなあくびをしますか。/07 - ひまわり.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は誰と幸せなあくびをしますか。/08 - CALLIN'.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は誰と幸せなあくびをしますか。/09 - 3月の雪.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は誰と幸せなあくびをしますか。/10 - 僕は大丈夫.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は誰と幸せなあくびをしますか。/11 - どんなときも。.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は僕の宝物/01 - INTRODUCTION.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は僕の宝物/02 - くもりガラスの夏.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は僕の宝物/03 - もう恋なんてしない.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は僕の宝物/04 - 三人.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は僕の宝物/05 - まばたきの間の永遠.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は僕の宝物/06 - てっぺんまでもうすぐ.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は僕の宝物/07 - 雷が鳴る前に.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は僕の宝物/08 - 涙のクリスマス.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は僕の宝物/09 - 遠く遠く.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は僕の宝物/10 - 冬がはじまるよ.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は僕の宝物/11 - 君は僕の宝物.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 君は僕の宝物/12 - 君は僕の宝物～REPRISE～.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 太陽/01 - 彗星.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 太陽/02 - キミノイイトコロ.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 太陽/03 - PLEASURE.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 太陽/04 - 濡れひよこ.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 太陽/05 - I ask..flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 太陽/06 - WILD RABBITS.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 太陽/07 - 迷わない羊.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 太陽/08 - Going Home.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 太陽/09 - SIMPLIFY.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 太陽/10 - 太陽.flac
+/home/pi/mount/Music/FLAC/槇原敬之/槇原敬之 - 太陽/11 - Ordinary Days.flac
 /home/pi/mount/Music/Record192/アルフィー/alfee_PageOne_a.flac
 /home/pi/mount/Music/Record192/アルフィー/alfee_PageOne_b.flac
 /home/pi/mount/Music/Record192/アルフィー/alfee_law_a.flac
@@ -1995,97 +1996,97 @@
 /home/pi/mount/Music/Record384/天気の子/tenkinoko_c.flac
 /home/pi/mount/Music/Record384/天気の子/tenkinoko_d.flac
 /home/pi/mount/Music/Record384/僕のLovely Girl.flac
-/home/pi/mount/Music/m4a/80's/1-0001600506.320.m4a
-/home/pi/mount/Music/m4a/80's/10-0001600515.320.m4a
-/home/pi/mount/Music/m4a/80's/11-0001600516.320.m4a
-/home/pi/mount/Music/m4a/80's/12-0001600517.320.m4a
-/home/pi/mount/Music/m4a/80's/13-0001600518.320.m4a
-/home/pi/mount/Music/m4a/80's/14-0001600519.320.m4a
-/home/pi/mount/Music/m4a/80's/15-0001600520.320.m4a
-/home/pi/mount/Music/m4a/80's/16-0001600521.320.m4a
-/home/pi/mount/Music/m4a/80's/17-0001600522.320.m4a
-/home/pi/mount/Music/m4a/80's/18-0001600523.320.m4a
-/home/pi/mount/Music/m4a/80's/19-0001600524.320.m4a
-/home/pi/mount/Music/m4a/80's/2-0001600507.320.m4a
-/home/pi/mount/Music/m4a/80's/20-0001600525.320.m4a
-/home/pi/mount/Music/m4a/80's/21-0001600526.320.m4a
-/home/pi/mount/Music/m4a/80's/22-0001600527.320.m4a
-/home/pi/mount/Music/m4a/80's/23-0001600528.320.m4a
-/home/pi/mount/Music/m4a/80's/24-0001600529.320.m4a
-/home/pi/mount/Music/m4a/80's/25-0001600530.320.m4a
-/home/pi/mount/Music/m4a/80's/26-0001600531.320.m4a
-/home/pi/mount/Music/m4a/80's/27-0001600532.320.m4a
-/home/pi/mount/Music/m4a/80's/28-0001600533.320.m4a
-/home/pi/mount/Music/m4a/80's/29-0001600534.320.m4a
-/home/pi/mount/Music/m4a/80's/3-0001600508.320.m4a
-/home/pi/mount/Music/m4a/80's/30-0001600535.320.m4a
-/home/pi/mount/Music/m4a/80's/31-0001600536.320.m4a
-/home/pi/mount/Music/m4a/80's/32-0001600537.320.m4a
-/home/pi/mount/Music/m4a/80's/33-0001600538.320.m4a
-/home/pi/mount/Music/m4a/80's/34-0001600539.320.m4a
-/home/pi/mount/Music/m4a/80's/35-0001600540.320.m4a
-/home/pi/mount/Music/m4a/80's/36-0001600541.320.m4a
-/home/pi/mount/Music/m4a/80's/37-0001600542.320.m4a
-/home/pi/mount/Music/m4a/80's/38-0001600543.320.m4a
-/home/pi/mount/Music/m4a/80's/39-0001600544.320.m4a
-/home/pi/mount/Music/m4a/80's/4-0001600509.320.m4a
-/home/pi/mount/Music/m4a/80's/40-0001600545.320.m4a
-/home/pi/mount/Music/m4a/80's/41-0001600546.320.m4a
-/home/pi/mount/Music/m4a/80's/42-0001600547.320.m4a
-/home/pi/mount/Music/m4a/80's/43-0001600548.320.m4a
-/home/pi/mount/Music/m4a/80's/44-0001600549.320.m4a
-/home/pi/mount/Music/m4a/80's/45-0001600550.320.m4a
-/home/pi/mount/Music/m4a/80's/46-0001600551.320.m4a
-/home/pi/mount/Music/m4a/80's/47-0001600552.320.m4a
-/home/pi/mount/Music/m4a/80's/48-0001600553.320.m4a
-/home/pi/mount/Music/m4a/80's/49-0001600554.320.m4a
-/home/pi/mount/Music/m4a/80's/5-0001600510.320.m4a
-/home/pi/mount/Music/m4a/80's/50-0001600555.320.m4a
-/home/pi/mount/Music/m4a/80's/51-0001600556.320.m4a
-/home/pi/mount/Music/m4a/80's/52-0001600557.320.m4a
-/home/pi/mount/Music/m4a/80's/53-0001600558.320.m4a
-/home/pi/mount/Music/m4a/80's/54-0001600559.320.m4a
-/home/pi/mount/Music/m4a/80's/55-0001600560.320.m4a
-/home/pi/mount/Music/m4a/80's/56-0001600561.320.m4a
-/home/pi/mount/Music/m4a/80's/57-0001600562.320.m4a
-/home/pi/mount/Music/m4a/80's/58-0001600563.320.m4a
-/home/pi/mount/Music/m4a/80's/59-0001600564.320.m4a
-/home/pi/mount/Music/m4a/80's/6-0001600511.320.m4a
-/home/pi/mount/Music/m4a/80's/60-0001600565.320.m4a
-/home/pi/mount/Music/m4a/80's/7-0001600512.320.m4a
-/home/pi/mount/Music/m4a/80's/8-0001600513.320.m4a
-/home/pi/mount/Music/m4a/80's/9-0001600514.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/1-0000855124.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/10-0000855133.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/11-0000855134.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/12-0000855135.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/13-0000855136.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/14-0000855137.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/15-0000855138.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/16-0000855139.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/17-0000855140.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/2-0000855125.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/3-0000855126.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/4-0000855127.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/5-0000855128.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/6-0000855129.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/7-0000855130.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/8-0000855131.320.m4a
-/home/pi/mount/Music/m4a/CultureClubBest/9-0000855132.320.m4a
-/home/pi/mount/Music/m4a/OeSenri1234/1-0002417405.320.m4a
-/home/pi/mount/Music/m4a/OeSenri1234/10-0002417414.320.m4a
-/home/pi/mount/Music/m4a/OeSenri1234/2-0002417406.320.m4a
-/home/pi/mount/Music/m4a/OeSenri1234/3-0002417407.320.m4a
-/home/pi/mount/Music/m4a/OeSenri1234/4-0002417408.320.m4a
-/home/pi/mount/Music/m4a/OeSenri1234/5-0002417409.320.m4a
-/home/pi/mount/Music/m4a/OeSenri1234/6-0002417410.320.m4a
-/home/pi/mount/Music/m4a/OeSenri1234/7-0002417411.320.m4a
-/home/pi/mount/Music/m4a/OeSenri1234/8-0002417412.320.m4a
-/home/pi/mount/Music/m4a/OeSenri1234/9-0002417413.320.m4a
-/home/pi/mount/Music/m4a/星野源/0007889558.320.m4a
-/home/pi/mount/Music/m4a/星野源/0007889559.320.m4a
-/home/pi/mount/Music/m4a/星野源/0007889560.320.m4a
-/home/pi/mount/Music/m4a/星野源/0007889561.320.m4a
+/home/pi/mount/Music/m4a/80's/01 Take On Me.m4a
+/home/pi/mount/Music/m4a/80's/02 Blue Monday '88.m4a
+/home/pi/mount/Music/m4a/80's/03 Venus.m4a
+/home/pi/mount/Music/m4a/80's/04 Don't Leave Me This Way (with Sarah Jane Morris).m4a
+/home/pi/mount/Music/m4a/80's/05 Somewhere In My Heart.m4a
+/home/pi/mount/Music/m4a/80's/06 Smalltown Boy.m4a
+/home/pi/mount/Music/m4a/80's/07 Working My Way Back To You.m4a
+/home/pi/mount/Music/m4a/80's/08 Ain't Nobody.m4a
+/home/pi/mount/Music/m4a/80's/09 Candy Girl.m4a
+/home/pi/mount/Music/m4a/80's/10 Love Wars.m4a
+/home/pi/mount/Music/m4a/80's/11 International Rescue.m4a
+/home/pi/mount/Music/m4a/80's/12 Mirror Mirror.m4a
+/home/pi/mount/Music/m4a/80's/13 Don't Tell Me.m4a
+/home/pi/mount/Music/m4a/80's/14 What Is Love.m4a
+/home/pi/mount/Music/m4a/80's/15 More More More.m4a
+/home/pi/mount/Music/m4a/80's/16 What's the Colour of Money.m4a
+/home/pi/mount/Music/m4a/80's/17 Out Of The Blue.m4a
+/home/pi/mount/Music/m4a/80's/18 Johnny Come Home.m4a
+/home/pi/mount/Music/m4a/80's/19 Special Brew.m4a
+/home/pi/mount/Music/m4a/80's/20 Don't Go.m4a
+/home/pi/mount/Music/m4a/80's/21 (Something Inside) So Strong.m4a
+/home/pi/mount/Music/m4a/80's/22 I Want To Know What Love Is.m4a
+/home/pi/mount/Music/m4a/80's/23 Owner Of A Lonely Heart (2008 Remastered Version).m4a
+/home/pi/mount/Music/m4a/80's/24 Gimme All Your Lovin'.m4a
+/home/pi/mount/Music/m4a/80's/25 Money's Too Tight (To Mention).m4a
+/home/pi/mount/Music/m4a/80's/26 La Bamba.m4a
+/home/pi/mount/Music/m4a/80's/27 Twist In My Sobriety.m4a
+/home/pi/mount/Music/m4a/80's/28 You Might Need Somebody.m4a
+/home/pi/mount/Music/m4a/80's/29 Don't Blame It On That Girl.m4a
+/home/pi/mount/Music/m4a/80's/30 You're History.m4a
+/home/pi/mount/Music/m4a/80's/31 Since Yesterday.m4a
+/home/pi/mount/Music/m4a/80's/32 Miss You Like Crazy.m4a
+/home/pi/mount/Music/m4a/80's/33 Young At Heart.m4a
+/home/pi/mount/Music/m4a/80's/34 I Keep Forgettin (Every Time You're Near).m4a
+/home/pi/mount/Music/m4a/80's/35 Each Time You Break My Heart.m4a
+/home/pi/mount/Music/m4a/80's/36 Some Candy Talking.m4a
+/home/pi/mount/Music/m4a/80's/37 Life In A Northern Town.m4a
+/home/pi/mount/Music/m4a/80's/38 I Can't Wait.m4a
+/home/pi/mount/Music/m4a/80's/39 Everybody Salsa.m4a
+/home/pi/mount/Music/m4a/80's/40 Jealousy.m4a
+/home/pi/mount/Music/m4a/80's/41 Devotion (Radio Mix).m4a
+/home/pi/mount/Music/m4a/80's/42 Love Will Tear Us Apart.m4a
+/home/pi/mount/Music/m4a/80's/43 Seven Seas.m4a
+/home/pi/mount/Music/m4a/80's/44 Drive.m4a
+/home/pi/mount/Music/m4a/80's/45 Don't Get Me Wrong.m4a
+/home/pi/mount/Music/m4a/80's/46 Hallelujah (Maccoll Mix).m4a
+/home/pi/mount/Music/m4a/80's/47 The Sun Rising.m4a
+/home/pi/mount/Music/m4a/80's/48 Jump To The Beat.m4a
+/home/pi/mount/Music/m4a/80's/49 Big Area.m4a
+/home/pi/mount/Music/m4a/80's/50 Don't Call Me Baby.m4a
+/home/pi/mount/Music/m4a/80's/51 Always.m4a
+/home/pi/mount/Music/m4a/80's/52 Black Velvet.m4a
+/home/pi/mount/Music/m4a/80's/53 Ride Like The Wind.m4a
+/home/pi/mount/Music/m4a/80's/54 I Feel For You.m4a
+/home/pi/mount/Music/m4a/80's/55 Gloria.m4a
+/home/pi/mount/Music/m4a/80's/56 Glory Of Love.m4a
+/home/pi/mount/Music/m4a/80's/57 Broken Land.m4a
+/home/pi/mount/Music/m4a/80's/58 Searching.m4a
+/home/pi/mount/Music/m4a/80's/59 Feel So Real.m4a
+/home/pi/mount/Music/m4a/80's/60 I Don't Want to Talk About It.m4a
+/home/pi/mount/Music/m4a/CultureClubBest/01 Do You Really Want to Hurt Me (2002 - Remaster).m4a
+/home/pi/mount/Music/m4a/CultureClubBest/02 Time (Clock Of The Heart) [2002 - Remaster].m4a
+/home/pi/mount/Music/m4a/CultureClubBest/03 I'll Tumble 4 Ya (2002 - Remaster).m4a
+/home/pi/mount/Music/m4a/CultureClubBest/04 White Boy (Dance Mix) [2003 - Remaster].m4a
+/home/pi/mount/Music/m4a/CultureClubBest/05 Church Of The Poison Mind (2002 - Remaster).m4a
+/home/pi/mount/Music/m4a/CultureClubBest/06 Karma Chameleon (2002 - Remaster).m4a
+/home/pi/mount/Music/m4a/CultureClubBest/07 Miss Me Blind (2002 - Remaster).m4a
+/home/pi/mount/Music/m4a/CultureClubBest/08 It's A Miracle (2002 - Remaster).m4a
+/home/pi/mount/Music/m4a/CultureClubBest/09 Victims (2002 - Remaster).m4a
+/home/pi/mount/Music/m4a/CultureClubBest/10 Black Money (2003 Digital Remaster).m4a
+/home/pi/mount/Music/m4a/CultureClubBest/11 The War Song (2003 - Remaster).m4a
+/home/pi/mount/Music/m4a/CultureClubBest/12 Mistake Number 3 (2002 - Remaster).m4a
+/home/pi/mount/Music/m4a/CultureClubBest/13 Love Is Love (2002 - Remaster).m4a
+/home/pi/mount/Music/m4a/CultureClubBest/14 Move Away.m4a
+/home/pi/mount/Music/m4a/CultureClubBest/15 I Just Wanna Be Loved.m4a
+/home/pi/mount/Music/m4a/CultureClubBest/16 Cold Shoulder.m4a
+/home/pi/mount/Music/m4a/CultureClubBest/17 Your Kisses Are Charity (Blouse And Skirt Mix).m4a
+/home/pi/mount/Music/m4a/OeSenri1234/01 GLORY DAYS.m4a
+/home/pi/mount/Music/m4a/OeSenri1234/02 平凡.m4a
+/home/pi/mount/Music/m4a/OeSenri1234/03 ROLLING BOYS IN TOWN.m4a
+/home/pi/mount/Music/m4a/OeSenri1234/04 Rain.m4a
+/home/pi/mount/Music/m4a/OeSenri1234/05 ハワイへ行きたい.m4a
+/home/pi/mount/Music/m4a/OeSenri1234/06 サヴォタージュ.m4a
+/home/pi/mount/Music/m4a/OeSenri1234/07 帰郷.m4a
+/home/pi/mount/Music/m4a/OeSenri1234/08 昼グリル.m4a
+/home/pi/mount/Music/m4a/OeSenri1234/09 消えゆく想い.m4a
+/home/pi/mount/Music/m4a/OeSenri1234/10 ジェシオ'S BAR.m4a
+/home/pi/mount/Music/m4a/星野源/01 恋.m4a
+/home/pi/mount/Music/m4a/星野源/02 Drinking Dance.m4a
+/home/pi/mount/Music/m4a/星野源/03 Continues.m4a
+/home/pi/mount/Music/m4a/星野源/04 雨音(House ver.).m4a
 /home/pi/mount/Music/mp3/BestBlue's/01 アポロ.mp3
 /home/pi/mount/Music/mp3/BestBlue's/02 サボテン.mp3
 /home/pi/mount/Music/mp3/BestBlue's/03 オレ、天使.mp3
@@ -2272,102 +2273,6 @@
 /home/pi/mount/Music/mp3/YMCK/ファミリーレーシング/Folder.jpg
 /home/pi/mount/Music/mp3/YMCK/ファミリーレーシング/Thumbs.db
 /home/pi/mount/Music/mp3/YMCK/ファミリーレーシング/desktop.ini
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/01 - 岡村靖幸_69_96 A SPACE ODYSSEY 〜 PRELUDE (IN ATAMI).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/02 - 砂原良徳_MOON WALK.mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/03 - 想い出波止場_BRAND NEW SEASON.mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/04 - 石野卓球_VOLUNTEER APE MAN (DISCO).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/05 - スチャダラパー,KING 3K,KENT Deli-Cuts(四街道Nature)_1969.mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/06 - シトラス_69_96 GIRL MEETS CASSETTE.mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/07 - 暴力温泉芸者_VOLUNTEER APE MAN (DISCO).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/08 - ドクロ隊_CONCERTO NO.3 FROM THE FOUR SEASONS (PINK BLOODY SABBATH).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/09 - hide_HEAVY METAL THUNDER.mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/10 - 小西康陽,和田弘とマヒナスターズ_WORLD'S END HUMMING 〜 REPRISE (IN HAWAII).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/11 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/12 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/13 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/14 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/15 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/16 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/17 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/18 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/19 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/20 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/21 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/22 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/23 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/24 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/25 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/26 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/27 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/28 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/29 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/30 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/31 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/32 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/33 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/34 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/35 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/36 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/37 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/38 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/39 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/40 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/41 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/42 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/43 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/44 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/45 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/46 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/47 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/48 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/49 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/50 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/51 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/52 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/53 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/54 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/55 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/56 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/57 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/58 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/59 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/60 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/61 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/62 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/63 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/64 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/65 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/66 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/67 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/68 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/69 - WELCOME TO THE JUNGLE.mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/70 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/71 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/72 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/73 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/74 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/75 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/76 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/77 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/78 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/79 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/80 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/81 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/82 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/83 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/84 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/85 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/86 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/87 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/88 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/89 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/90 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/91 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/92 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/93 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/94 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/95 - (non title).mp3
-/home/pi/mount/Music/mp3/cornelius - 96_69<地球あやうし!!>/96 - 96／69extra track.mp3
 /home/pi/mount/Music/mp3/electripper - モノクロアンダーグラウンド/01 - unknown 1 - Track 1.mp3
 /home/pi/mount/Music/mp3/electripper - モノクロアンダーグラウンド/02 - unknown 2 - Track 2.mp3
 /home/pi/mount/Music/mp3/electripper - モノクロアンダーグラウンド/03 - unknown 3 - Track 3.mp3

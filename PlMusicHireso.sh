@@ -32,17 +32,17 @@ echo Play : 「"$1"」vol: ${volume}
       echo "re-sampling : 192k 24bit"
       AUDIODRIVER=alsa play "$1" -r 192k -b 24 -q --buffer 50000 $effect &
     #else
-    #  AUDIODRIVER=alsa play "$1" --buffer 700000 $effect &
+    #  AUDIODRIVER=alsa play "$1" -q --buffer 70000 $effect &
     #fi
   elif [ "${ext4}" = "flac" ]; then
     rate=0$(metaflac --show-sample-rate "$1" 2>/dev/null)
     echo Rate : $rate
-    #if [ $rate -lt 50000 ]; then
+    if [ $rate -lt 50000 ]; then
       echo "re-sampling : 192k 24bit"
       AUDIODRIVER=alsa play "$1" -r 192k -b 24 -q --buffer 50000 $effect &
-    #else
-    #  AUDIODRIVER=alsa play "$1" --buffer 700000 $effect &
-    #fi
+    else
+      AUDIODRIVER=alsa play "$1" -q --buffer 70000 $effect &
+    fi
   fi
   
 #else

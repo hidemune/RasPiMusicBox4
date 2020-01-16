@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # ２重起動防止
-if [ $(pgrep startx) ] ; then
-  exit 0
-fi
+#if [ $(pgrep startx) ] ; then
+#  exit 0
+#fi
 
 #export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
 
@@ -35,7 +35,7 @@ done
 
 if [[ "${ip2}" == 192* ]]; then
   url="http://${ip2}"
-  echo 以下のアドレスに、LAN経由で繋いでください。
+  echo 以下のアドレスに、ブラウザからLAN経由で繋いでください。
   echo
   echo ${url}
 
@@ -45,7 +45,7 @@ if [[ "${ip2}" == 192* ]]; then
 
   qrencode -t ansi "${url}"
   #aplay -D pluhw:1 /home/pi/git/ready.wav 2>/dev/null
-  sudo echo "$last 以下のアドレスに、LAN経由で繋いでください。 ${url}" | sed -e "s/\./ ドット /g" -e "s/http\:\/\// /g" -e "s/\//スラッシュ /g" -e "s/:8080//g" > url.txt
+  sudo echo "$last 以下のアドレスに、ブラウザからLAN経由で繋いでください。 ${url}" | sed -e "s/\./ ドット /g" -e "s/http\:\/\// /g" -e "s/\//スラッシュ /g" -e "s/:8080//g" > url.txt
   sudo open_jtalk -x /var/lib/mecab/dic/open-jtalk/naist-jdic -m /usr/share/hts-voice/nitech-jp-atr503-m001/nitech_jp_atr503_m001.htsvoice -r 1.0 -ow url.wav url.txt 
 
 else

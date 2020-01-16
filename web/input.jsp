@@ -313,6 +313,7 @@ function getText(unit) {
   <v-client-table :columns="columns" :data="data" :options="options">
     <slot slot="url" slot-scope="props">
     <button :id="props.row.id" @click="submitForm(props.row.title,  props.row.url,'',props.row.title)" style="height: 4em;  background-color: #cccccc; ">Play</button>
+    <button :id="props.row.id" @click="getLyric(props.row.title,  props.row.artist)" style="height: 4em;  background-color: #cccccc; ">Lyric</button>
     </slot>
   </v-client-table>
 </div>
@@ -374,6 +375,52 @@ new Vue({
         }, 500);
       }
       return false;
+    },
+  getLyric:function (artist, song) {
+      /*
+        //var ev = $("#pop11").get(0).onclick;
+        //$("#pop11").get(0).onclick = "";
+        
+        $('input[name=modalPop]').attr('checked',false);
+	    $("#pop11").attr("checked", false);
+	    $("#pop12").attr("checked", false);
+	    $("#pop13").attr("checked", false);
+       var ele = document.getElementsByName("modalPop");
+       for(var i=0;i<ele.length;i++)
+          ele[i].checked = false;
+          
+        setTimeout(function() {
+        var http = new XMLHttpRequest();
+        http.open("POST", "lyric.jsp", true);
+        http.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+        var params = "artist=" + encodeURIComponent(artist) + "&title=" + encodeURIComponent(song) ;
+        http.send(params);
+        http.onload = function() {
+        	try {
+		    k = ("\n---\n");
+		    var reta = http.responseText.split(k,2);
+		    var tita = reta[0].trim().split("\n",2)
+		    if (reta[1].trim() != "" ) {
+				        $(".modalTitle").html(tita[0] + "<br>" + tita[1]);
+	            	$(".modalMain").html("<pre>\n" + reta[1].replace("&amp;","&") + "\n</pre>");
+		    } else {
+			    //$(".modalMain").html("<p>歌詞の取得に失敗しました。</p>");
+			    var win = window.open("https://search.yahoo.co.jp/search?p=" + encodeURIComponent("歌詞 " + artist + " " + song) + "&ei=UTF-8", '_blank');
+			    win.focus();
+			    return;
+		    }        	
+	    } catch (e) {
+		    $(".modalTitle").html("<p>Lyric</p>");
+		    $(".modalMain").html("<p>歌詞の取得に失敗しました!!</p>");
+	    };
+	    $("#pop11").attr("checked", true);
+	       var ele = document.getElementById("pop11");
+          	   ele.checked = true;
+        }
+        }, 500);
+        */
+      var win = window.open("https://search.yahoo.co.jp/search?p=" + encodeURIComponent("歌詞 " + artist + " " + song) + "&ei=UTF-8", '_blank');
+      win.focus();
     }
   }
 });
@@ -418,6 +465,7 @@ while((line = objBr.readLine()) != null){
     }
   }
 }
+/*
 if (count == 0) {
   out.println("{");
   out.println("'id': 'id_" + count + "',");
@@ -429,6 +477,7 @@ if (count == 0) {
 
   out.println("    },");
 }
+*/
 
 
 if (!(strTxt1.equals(""))) {
@@ -481,6 +530,7 @@ if (!(strTxt1.equals(""))) {
       
         line2 = reader.readLine();
       }
+/*
     if (count == 0) {
         out.println("{");
         out.println("'id': 'id_" + count + "',");
@@ -492,6 +542,7 @@ if (!(strTxt1.equals(""))) {
         
         out.println("    },");
     }
+*/
     reader.close();
 //    p.waitFor();
     

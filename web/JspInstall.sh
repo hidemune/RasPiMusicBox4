@@ -10,7 +10,7 @@ sudo cp *.png /var/lib/tomcat8/webapps/ROOT/
 sudo cp rireki /var/lib/tomcat8/webapps/ROOT/
 sudo rm -f /var/lib/tomcat8/webapps/ROOT/que*
 
-sudo echo 80 > /var/lib/tomcat8/webapps/ROOT/volume
+sudo echo 90 > /var/lib/tomcat8/webapps/ROOT/volume
 
 sudo chmod 777 /var/lib/tomcat8/webapps/ROOT/rireki
 sudo chmod 777 /var/lib/tomcat8/webapps/ROOT/volume

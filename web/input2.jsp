@@ -164,7 +164,7 @@
   <input type="checkbox" id="toggle">
 
     <div id="lt2"><!-- ここは左メニューです -->
-    <iframe seamless src="volume.jsp" width="100%" height="100%" frameborder="0" scrolling="auto"></iframe>
+    <iframe seamless src="volume2.jsp" width="100%" height="100%" frameborder="0" scrolling="auto"></iframe>
     </div> <!-- id="lt2" ここまで左メニューです -->
 
 </div>

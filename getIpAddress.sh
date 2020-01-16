@@ -20,7 +20,7 @@ sudo rm -f /var/lib/tomcat8/webapps/ROOT/start
 
 sudo ./volume.sh 100
 
-for f in `seq 30 -1 1`
+for f in `seq 2 -1 1`
 do
   ip2=`hostname -I | awk '{print $1}'`
   if [[ "${ip2}" == 192* ]]; then
@@ -53,6 +53,9 @@ else
   echo ネットワークアドレスを取得できません。
   echo WiFiまたはLANケーブルをご確認ください。
   sudo echo "LANケーブルが接続されていないため、ネットワーク機能は利用できません。" > url.txt
+  sudo touch /var/lib/tomcat8/webapps/ROOT/start
+  sudo chmod 777 /var/lib/tomcat8/webapps/ROOT/start
+  exit 0
   sudo open_jtalk -x /var/lib/mecab/dic/open-jtalk/naist-jdic -m /usr/share/hts-voice/nitech-jp-atr503-m001/nitech_jp_atr503_m001.htsvoice -r 1.0 -ow url.wav url.txt 
 
 fi

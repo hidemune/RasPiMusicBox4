@@ -12,25 +12,25 @@ echo Play : 「"$1"」vol: ${volume}
   if [ "${ext4}" = ".m4a" ]; then
     yes | ffmpeg -i "$1" /run/tmp.wav
     echo "Upsampling : 192k 24bit"
-    AUDIODRIVER=alsa play /run/tmp.wav -r 192k -b 24 -q --buffer 50000 $effect &
+    AUDIODRIVER=alsa play /run/tmp.wav --replay-gain track -r 192k -b 24 -q --buffer 50000 $effect &
   elif [ "${ext4}" = ".mp4" ]; then
     yes | ffmpeg -i "$1" /run/tmp.wav
     echo "Upsampling : 192k 24bit"
-    AUDIODRIVER=alsa play /run/tmp.wav -r 192k -b 24 -q --buffer 50000 $effect &
+    AUDIODRIVER=alsa play /run/tmp.wav --replay-gain track -r 192k -b 24 -q --buffer 50000 $effect &
   elif [ "${ext4}" = ".m4v" ]; then
     yes | ffmpeg -i "$1" /run/tmp.wav
     echo "Upsampling : 192k 24bit"
-    AUDIODRIVER=alsa play /run/tmp.wav -r 192k -b 24 -q --buffer 50000 $effect &
+    AUDIODRIVER=alsa play /run/tmp.wav --replay-gain track -r 192k -b 24 -q --buffer 50000 $effect &
   elif [ "${ext4}" = ".wav" ]; then
     echo "Upsampling : 192k 24bit"
-    AUDIODRIVER=alsa play "$1" -r 192k -b 24 -q --buffer 50000 $effect &
+    AUDIODRIVER=alsa play "$1" --replay-gain track -r 192k -b 24 -q --buffer 50000 $effect &
   elif [ "${ext4}" = ".mp3" ]; then
     rate=`file "$1" | sed 's/.*, \(.*\)kHz.*/\1/' | tr -d " " `
     rate2=$(echo "$rate * 1000" | bc | sed s/\.[0-9,]*$//g) 
     echo Rate : $rate2
     #if [ $rate2 -lt 50000 ]; then
       echo "re-sampling : 192k 24bit"
-      AUDIODRIVER=alsa play "$1" -r 192k -b 24 -q --buffer 50000 $effect &
+      AUDIODRIVER=alsa play "$1" --replay-gain track -r 192k -b 24 -q --buffer 50000 $effect &
     #else
     #  AUDIODRIVER=alsa play "$1" -q --buffer 70000 $effect &
     #fi
@@ -39,9 +39,9 @@ echo Play : 「"$1"」vol: ${volume}
     echo Rate : $rate
     if [ $rate -lt 50000 ]; then
       echo "re-sampling : 192k 24bit"
-      AUDIODRIVER=alsa play "$1" -r 192k -b 24 -q --buffer 50000 $effect &
+      AUDIODRIVER=alsa play "$1" --replay-gain track -r 192k -b 24 -q --buffer 50000 $effect &
     else
-      AUDIODRIVER=alsa play "$1" -q --buffer 70000 $effect &
+      AUDIODRIVER=alsa play "$1" --replay-gain track -q --buffer 70000 $effect &
     fi
   fi
   

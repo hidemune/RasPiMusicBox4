@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo Volume : $1
+#echo Volume : $1
 sudo echo $1 > /var/lib/tomcat8/webapps/ROOT/volume
 
 #amixer sset 'Digital' $(echo "(50 + 0$1) /180*255" | bc -l) > /dev/null 2>&1 

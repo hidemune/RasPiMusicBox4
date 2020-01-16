@@ -24,5 +24,7 @@ echo $nextNum
 IFS='	' fileNm=(${images[$nextNum]})
 echo RandomFileName _ "${fileNm[0]}"
 
+echo ${fileNm[3]} > /var/lib/tomcat8/webapps/ROOT/nowplay
+
 vol="${fileNm[4]}"
 ./PlMusicHireso.sh "${fileNm[0]}" ${vol}

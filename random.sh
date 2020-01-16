@@ -27,7 +27,11 @@ echo $nextNum
 IFS='	' fileNm=(${images[$nextNum]})
 echo RandomFileName _ "${fileNm[0]}"
 
-echo ${fileNm[3]} > /var/lib/tomcat8/webapps/ROOT/nowplay
+if [ "${fileNm[3]}" == "" ]; then
+  echo ${fileNm[0]} > /var/lib/tomcat8/webapps/ROOT/nowplay
+else
+  echo ${fileNm[3]} > /var/lib/tomcat8/webapps/ROOT/nowplay
+fi
 
 vol="${fileNm[4]}"
 ./PlMusicHireso.sh "${fileNm[0]}" ${vol}

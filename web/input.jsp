@@ -28,6 +28,18 @@
   objBwS.close();
 
   int idx = 1;
+  File fileN = new File(application.getRealPath("nowplay"));
+  if (fileN.exists()) {
+    BufferedReader objBr = new BufferedReader(new InputStreamReader(new FileInputStream(fileN),"UTF-8"));
+    String line = "";
+    while((line = objBr.readLine()) != null){
+      out.println((idx) + ":" + line.substring(line.lastIndexOf("/")+1,line.length()) + "<br>");
+      idx++;
+      break;
+    }
+    objBr.close();
+  }
+
   File dir = new File(application.getRealPath("."));
   File[] files = dir.listFiles();
   if (files != null) {
@@ -300,7 +312,7 @@ function getText(unit) {
 <div id="app">
   <v-client-table :columns="columns" :data="data" :options="options">
     <slot slot="url" slot-scope="props">
-    <button :id="props.row.id" @click="submitForm(props.row.title,  props.row.url,'',props.row.id)" style="height: 4em;  background-color: #cccccc; ">Play</button>
+    <button :id="props.row.id" @click="submitForm(props.row.title,  props.row.url,'',props.row.title)" style="height: 4em;  background-color: #cccccc; ">Play</button>
     </slot>
   </v-client-table>
 </div>
@@ -340,7 +352,7 @@ new Vue({
     }
   },
   methods: {
-    submitForm: function (title, filename, oops, id) {
+    submitForm: function (title, filename, oops, title) {
       if (decodeURIComponent(filename) == "-") {
         return false;
       }
@@ -348,7 +360,7 @@ new Vue({
       var http = new XMLHttpRequest();
       http.open("POST", "kettei.jsp", true);
       http.setRequestHeader("Content-type","application/x-www-form-urlencoded");
-      var params = "filename=" + filename + "&effect=" + oops ;
+      var params = "filename=" + filename + "&effect=" + oops + "&title=" + title ;
       http.send(params);
       http.onload = function() {
         $("#header").html( $("#header").html() + "<a href='#'>" + title + "</a><br>");

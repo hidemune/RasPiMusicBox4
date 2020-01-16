@@ -62,6 +62,11 @@ do
         sudo kill -9 `pgrep vlc`
         # Play Queue !
         qfiles=(`ls /var/lib/tomcat8/webapps/ROOT/que* -1 2>/dev/null`)
+        if [ "`sed -n 4P ${qfiles[0]}`" == "" ]; then
+          sudo echo "`sed -n 1P ${qfiles[0]}`" > /var/lib/tomcat8/webapps/ROOT/nowplay
+        else
+          sudo echo `sed -n 4P ${qfiles[0]}` > /var/lib/tomcat8/webapps/ROOT/nowplay
+        fi
         ./PlMusicHireso.sh "`sed -n 1P ${qfiles[0]}`" "`sed -n 2P ${qfiles[0]}`" "`sed -n 3P ${qfiles[0]}`"
         mv -f ${qfiles[0]} /var/lib/tomcat8/webapps/ROOT/playque
       fi
@@ -72,6 +77,11 @@ do
       else
         # Play Queue !
         qfiles=(`ls /var/lib/tomcat8/webapps/ROOT/que* -1 2>/dev/null`)
+        if [ "`sed -n 4P ${qfiles[0]}`" == "" ]; then
+          sudo echo "`sed -n 1P ${qfiles[0]}`" > /var/lib/tomcat8/webapps/ROOT/nowplay
+        else
+          sudo echo `sed -n 4P ${qfiles[0]}` > /var/lib/tomcat8/webapps/ROOT/nowplay
+        fi
         ./PlMusicHireso.sh "`sed -n 1P ${qfiles[0]}`" "`sed -n 2P ${qfiles[0]}`" "`sed -n 3P ${qfiles[0]}`"
         mv -f ${qfiles[0]} /var/lib/tomcat8/webapps/ROOT/playque
       fi

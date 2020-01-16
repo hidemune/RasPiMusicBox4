@@ -28,6 +28,18 @@
   objBwS.close();
 
   int idx = 1;
+  File fileN = new File(application.getRealPath("nowplay"));
+  if (fileN.exists()) {
+    BufferedReader objBr = new BufferedReader(new InputStreamReader(new FileInputStream(fileN),"UTF-8"));
+    String line = "";
+    while((line = objBr.readLine()) != null){
+      out.println((idx) + ":" + line.substring(line.lastIndexOf("/")+1,line.length()) + "<br>");
+      idx++;
+      break;
+    }
+    objBr.close();
+  }
+
   File dir = new File(application.getRealPath("."));
   File[] files = dir.listFiles();
   if (files != null) {
@@ -251,7 +263,7 @@ function submitForm(title, filename, oops, id) {
   }
   //alert(filename);
   var http = new XMLHttpRequest();
-  http.open("POST", "http://192.168.0.10/karaoke/kettei.jsp", true);
+  http.open("POST", "kettei.jsp", true);
   http.setRequestHeader("Content-type","application/x-www-form-urlencoded");
   var params = "filename=" + filename + "&effect=" + oops ;
   http.send(params);

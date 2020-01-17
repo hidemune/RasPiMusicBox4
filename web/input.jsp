@@ -310,7 +310,7 @@ function getText(unit) {
 <h3 class="vue-title">Result</h3>
 
 <div id="app">
-  <v-client-table :columns="columns" :data="data" :options="options">
+  <v-client-table :columns="columns" :data="data" :options="options" :sort-order="sortOrder">
     <slot slot="url" slot-scope="props">
     <button :id="props.row.id" @click="submitForm(props.row.title,  props.row.url,'',props.row.title)" style="height: 4em;  background-color: #cccccc; ">Play</button>
     <button :id="props.row.id" @click="getLyric(props.row.title,  props.row.artist)" style="height: 4em;  background-color: #cccccc; ">Lyric</button>
@@ -339,7 +339,6 @@ new Vue({
       groupBy: 'artist',
 	    columnsDropdown: true, 
       headings: {
-
         album: 'アルバム',
         title: 'タイトル',
         url: 'Button',
@@ -349,7 +348,13 @@ new Vue({
       ],
       texts: {
         filterPlaceholder: '検索する'
-      }
+      },
+      sortOrder: [
+        {
+        field: 'url',
+        direction: 'asc'
+        }
+      ],
     }
   },
   methods: {

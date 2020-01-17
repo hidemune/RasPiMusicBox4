@@ -17,9 +17,9 @@ for f in $(find ${musicpath} -type f -not -path "*/playerSetting/*"); do
   if [ "$ext4" == "flac" ]; then
     
     text=`lltag -S "$f" 2>&1`
-    artist=$(echo "$text" | grep -m 1 -i " ARTIST=" | awk '{ sub("^[.]*=",""); print $0; }')
-    album=$(echo "$text" | grep -m 1 -i " ALBUM=" | awk '{ sub("^[.]*=",""); print $0; }')
-    title=$(echo "$text" | grep -m 1 -i " TITLE=" | awk '{ sub("^[.]*=",""); print $0; }')
+    artist=$(echo "$text" | grep -m 1 -i " ARTIST=" | awk '{ sub("[^.]*=",""); print $0; }')
+    album=$(echo "$text" | grep -m 1 -i " ALBUM=" | awk '{ sub("[^.]*=",""); print $0; }')
+    title=$(echo "$text" | grep -m 1 -i " TITLE=" | awk '{ sub("[^.]*=",""); print $0; }')
     
   else
     base=$(basename "$f")
@@ -33,9 +33,9 @@ for f in $(find ${musicpath} -type f -not -path "*/playerSetting/*"); do
     tracknumber="    "$(echo "$text" | grep -m 1 -i " track " | awk '{ sub("[^.]* : ",""); print $0; }')
     num=$(echo ${tracknumber} | rev | cut -c 1-3 | rev)
 
-    artist=$(echo "$text" | grep -m 1 -i " ARTIST " | grep " : " | awk '{ sub("^[.]* : ",""); print $0; }')
-    album=$(echo "$text" | grep -m 1 -i " ALBUM " | grep " : " | awk '{ sub("^[.]* : ",""); print $0; }')
-    title=$(echo "$text" | grep -m 1 -i " TITLE " | grep " : " | awk '{ sub("^[.]* : ",""); print $0; }')
+    artist=$(echo "$text" | grep -m 1 -i " ARTIST " | grep " : " | awk '{ sub("[^.]* : ",""); print $0; }')
+    album=$(echo "$text" | grep -m 1 -i " ALBUM " | grep " : " | awk '{ sub("[^.]* : ",""); print $0; }')
+    title=$(echo "$text" | grep -m 1 -i " TITLE " | grep " : " | awk '{ sub("[^.]* : ",""); print $0; }')
   fi
   
   echo $artist / $album / $title

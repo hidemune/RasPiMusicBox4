@@ -345,7 +345,7 @@ new Vue({
         url: 'Button',
       },
       sortable: [
-        'album', 'title'
+        'url', 'album', 'title'
       ],
       texts: {
         filterPlaceholder: '検索する'

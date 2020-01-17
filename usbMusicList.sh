@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo -u pi chromium-browser http://localhost &
+#sudo -u pi chromium-browser --user-data-dir=/home/pi http://localhost &
 
 # ２重起動防止
 if [ $(pgrep loop.sh) ] ; then

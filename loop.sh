@@ -9,13 +9,13 @@ sudo chmod 777 /var/lib/tomcat8/webapps/ROOT/*.csv
 
 ./getIpAddress.sh
 
-#while true :
-#do
-#  if [ -e /var/lib/tomcat8/webapps/ROOT/start ] ; then
-#    break
-#  fi
-#  sleep 1
-#done
+while true :
+do
+  if [ -e /var/lib/tomcat8/webapps/ROOT/start ] ; then
+    break
+  fi
+  sleep 1
+done
 
 mode=0
 volume=90

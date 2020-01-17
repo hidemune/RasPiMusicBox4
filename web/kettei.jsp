@@ -4,7 +4,7 @@
 <html>
   <head>
     <meta http-equiv="refresh" content="1;URL=input.jsp">
-    <title>カラオケ</title>
+    <title>ミュージックボックス</title>
   </head>
   <body>
 <%

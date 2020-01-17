@@ -1,5 +1,12 @@
 #!/bin/bash
 
+sudo -u pi chromium-browser http://localhost &
+
+# ２重起動防止
+if [ $(pgrep loop.sh) ] ; then
+  exit 0
+fi
+
 cd /home/pi/git/RasPiMusicBox4/
 ./volume.sh 100
 

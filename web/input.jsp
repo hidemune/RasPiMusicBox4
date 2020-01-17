@@ -11,7 +11,7 @@
     <script src="vue.js"></script>
     <script src="vue-tables-2.min.js"></script>
     <script src="jquery.min.js"></script>
-    <title>再生</title>
+    <title>ミュージックボックス</title>
 </head>
 
 <body>

@@ -9,7 +9,7 @@
  <meta http-equiv="Pragma" content="no-cache">
  <meta http-equiv="Cache-Control" content="no-cache">
  <meta http-equiv="Expires" content="0">
-<title>カラオケ</title>
+<title>ミュージックボックス</title>
 </head>
 
 <body id="iframe">

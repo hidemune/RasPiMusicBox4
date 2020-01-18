@@ -369,7 +369,7 @@ new Vue({
       var params = "filename=" + filename + "&effect=" + oops + "&title=" + title ;
       http.send(params);
       http.onload = function() {
-        $("#header").html( $("#header").html() + "<a href='#'>" + title + "</a><br>");
+        $("#header").html( $("#header").html() + "<a href='input.jsp'>" + title + "</a><br>");
         $("#header").css("background-color", "#00cccc");
         
         setTimeout(function () {

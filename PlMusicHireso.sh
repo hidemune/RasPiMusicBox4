@@ -22,8 +22,13 @@ echo Play : 「"$1"」vol: ${volume}
     echo "Upsampling : 192k 24bit"
     AUDIODRIVER=alsa play /run/tmp.wav --replay-gain track -r 192k -b 24 -q --buffer 50000 $effect &
   elif [ "${ext4}" = ".wav" ]; then
+#    touch /run/tmp.wav
+#    sudo chmod 777 /run/tmp.wav
+#    sudo -u pi cp -f "$1" /run/tmp.wav
+#    echo "Upsampling : 192k 24bit"
+#    AUDIODRIVER=alsa play /run/tmp.wav --replay-gain track -r 192k -b 24 -q --buffer 50000 $effect &
     echo "Upsampling : 192k 24bit"
-    AUDIODRIVER=alsa play "$1" --replay-gain track -r 192k -b 24 -q --buffer 50000 $effect &
+    AUDIODRIVER=alsa play "$f" --replay-gain track -r 192k -b 24 -q --buffer 50000 $effect &
   elif [ "${ext4}" = ".mp3" ]; then
     rate=`file "$1" | sed 's/.*, \(.*\)kHz.*/\1/' | tr -d " " `
     rate2=$(echo "$rate * 1000" | bc | sed s/\.[0-9,]*$//g) 

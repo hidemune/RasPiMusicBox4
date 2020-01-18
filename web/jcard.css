@@ -87,11 +87,11 @@ input#yoyaku {
 	  transition: all 500ms 0s ease;
   }
   #sample input:checked + #main{
-	  left: 200px;
+	  left: 230px;
 	  transition: all 500ms 0s ease;
   }
   #sample input:checked+div{
-	  width: 200px;
+	  width: 230px;
 	  z-index: 50;
 	  transition: all 500ms 0s ease;
   }

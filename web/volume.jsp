@@ -35,7 +35,7 @@ function nextMusic() {
 <br>
 <br>
 
-<button type="button" name="cancel" value="1" onClick='nextMusic()'"><font size="5" color="#333399">&nbsp;&nbsp;次の曲&nbsp;&nbsp;</font>
+<button type="button" name="cancel" value="1" onClick='nextMusic()'"><font size="5" color="#333399">&nbsp;次の曲&nbsp;&nbsp;</font>
 </button>
 
 <br>

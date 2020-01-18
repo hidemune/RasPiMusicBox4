@@ -3,4 +3,4 @@
 sudo pkill loop.sh
 sudo pkill play
 
-cvlc /dev/sr0
+vlc /dev/sr0

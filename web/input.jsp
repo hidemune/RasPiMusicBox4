@@ -312,7 +312,7 @@ function getText(unit) {
 <div id="app">
   <v-client-table :columns="columns" :data="data" :options="options" :sort-order="sortOrder">
     <slot slot="url" slot-scope="props">
-    <button :id="props.row.id" @click="submitForm(props.row.title,  props.row.url,'',props.row.title)" style="height: 4em;  background-color: #cccccc; ">Play</button>
+    <button :id="props.row.id" @click="submitForm(props.row.title,  props.row.url,'','')" style="height: 4em;  background-color: #cccccc; ">Play</button>
     <button :id="props.row.id" @click="getLyric(props.row.title,  props.row.artist)" style="height: 4em;  background-color: #cccccc; ">Lyric</button>
     </slot>
   </v-client-table>
@@ -358,7 +358,7 @@ new Vue({
     }
   },
   methods: {
-    submitForm: function (title, filename, oops, title) {
+    submitForm: function (title, filename, oops, id) {
       if (decodeURIComponent(filename) == "-") {
         return false;
       }

@@ -1,7 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"
- import="java.lang.*,java.io.*,java.util.*,java.text.*,java.nio.file.*,java.net.*" 
+ import="java.lang.*,java.io.*,java.util.*,java.text.*, java.nio.file.*,java.net.*" 
 
 %>
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -20,7 +21,43 @@
 <div id="header"><!-- ここはヘッダです -->
 
 <a href="input.jsp" target="_top">
+
+<%!
+  /** HTMLエンコードが必要な文字 **/
+  char[] htmlEncChar = {'&', '"', '<', '>'};
+  /** HTMLエンコードした文字列 **/
+  String[] htmlEncStr = {"&amp;", "&quot;", "&lt;", "&gt;"};
+  /**
+  * HTMLエンコード処理。
+  *   &,",<,>の置換
+  **/
+  private String encode (String strIn) {
+    if (strIn == null) {
+      return("");
+    }
+    // HTMLエンコード処理
+    StringBuffer strOut = new StringBuffer(strIn);
+    // エンコードが必要な文字を順番に処理
+    for (int i = 0; i < htmlEncChar.length; i++) {
+      // エンコードが必要な文字の検索
+      int idx = strOut.toString().indexOf(htmlEncChar[i]);
+      while (idx != -1) {
+        // エンコードが必要な文字の置換
+        strOut.setCharAt(idx, htmlEncStr[i].charAt(0));
+        strOut.insert(idx + 1, htmlEncStr[i].substring(1));
+        // 次のエンコードが必要な文字の検索
+        idx = idx + htmlEncStr[i].length();
+        idx = strOut.toString().indexOf(htmlEncChar[i], idx);
+      }
+    }
+    return(strOut.toString());
+  }
+%>
+
 <%
+
+
+
   //write
   FileWriter objFwS=new FileWriter(application.getRealPath("start"));
   BufferedWriter objBwS=new BufferedWriter(objFwS);
@@ -33,7 +70,7 @@
     BufferedReader objBr = new BufferedReader(new InputStreamReader(new FileInputStream(fileN),"UTF-8"));
     String line = "";
     while((line = objBr.readLine()) != null){
-      out.println((idx) + ":" + line + "<br>");
+      out.println((idx) + ":" + encode(line) + "<br>");
       idx++;
       break;
     }
@@ -55,7 +92,7 @@
           int ln = 0;
           while((line = objBr.readLine()) != null){
             if (ln == 3) {
-              out.println((idx) + ":" + line + "<br>");
+              out.println((idx) + ":" + encode(line) + "<br>");
               idx++;
               break;
             }
@@ -370,7 +407,7 @@ new Vue({
       var http = new XMLHttpRequest();
       http.open("POST", "kettei.jsp", true);
       http.setRequestHeader("Content-type","application/x-www-form-urlencoded");
-      var params = "filename=" + filename + "&effect=" + oops + "&title=" + title ;
+      var params = "filename=" + filename + "&effect=" + oops + "&title=" + encodeURIComponent(title,"utf-8") ;
       http.send(params);
       http.onload = function() {
         $("#header").html( $("#header").html() + "<a href='input.jsp'>" + title + "</a><br>");

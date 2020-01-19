@@ -269,7 +269,7 @@ function submitForm(title, filename, oops, id) {
   var http = new XMLHttpRequest();
   http.open("POST", "kettei.jsp", true);
   http.setRequestHeader("Content-type","application/x-www-form-urlencoded");
-  var params = "filename=" + filename + "&effect=" + oops  + "&title=" + title;
+  var params = "filename=" + filename + "&effect=" + oops  + "&title=" + encodeURIComponent(title);
   http.send(params);
   http.onload = function() {
     $("#header").html( $("#header").html() + "<a href='input.jsp'>" + title + "</a><br>");

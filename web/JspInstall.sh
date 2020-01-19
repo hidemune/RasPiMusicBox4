@@ -3,6 +3,7 @@
 sudo mkdir /var/lib/tomcat8/webapps/ROOT/karaoke/
 sudo cp *.jsp /var/lib/tomcat8/webapps/ROOT/karaoke/
 sudo cp *.js /var/lib/tomcat8/webapps/ROOT/karaoke/
+sudo cp *.java /var/lib/tomcat8/webapps/ROOT/karaoke/
 sudo cp *.css /var/lib/tomcat8/webapps/ROOT/karaoke/
 
 sudo cp index.html /var/lib/tomcat8/webapps/ROOT/

@@ -33,7 +33,7 @@
     BufferedReader objBr = new BufferedReader(new InputStreamReader(new FileInputStream(fileN),"UTF-8"));
     String line = "";
     while((line = objBr.readLine()) != null){
-      out.println((idx) + ":" + line.substring(line.lastIndexOf("/")+1,line.length()) + "<br>");
+      out.println((idx) + ":" + line + "<br>");
       idx++;
       break;
     }
@@ -52,10 +52,14 @@
         if (file.exists()) {
           BufferedReader objBr = new BufferedReader(new InputStreamReader(new FileInputStream(file),"UTF-8"));
           String line = "";
+          int ln = 0;
           while((line = objBr.readLine()) != null){
-            out.println((idx) + ":" + line.substring(line.lastIndexOf("/")+1,line.length()) + "<br>");
-            idx++;
-            break;
+            if (ln == 3) {
+              out.println((idx) + ":" + line + "<br>");
+              idx++;
+              break;
+            }
+            ln = ln + 1;
           }
           objBr.close();
         }

@@ -24,7 +24,7 @@ sudo rm -f /var/lib/tomcat8/webapps/ROOT/que*
 DEVICE=sda1
 
 sudo umount /dev/${DEVICE} 
-sudo mount -o uid=1000,gid=1000,iocharset=utf8 /dev/${DEVICE} /home/pi/mount/ || sudo mount -o uid=1000,gid=1000 /dev/${DEVICE} /home/pi/mount/
+sudo mount -o iocharset=utf8 /dev/${DEVICE} /home/pi/mount/ || sudo mount /dev/${DEVICE} /home/pi/mount/
 
 if [ $? -gt 0 ] ; then
   MusicDir=/home/pi/Music/

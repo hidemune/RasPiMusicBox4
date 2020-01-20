@@ -20,7 +20,7 @@ sudo rm -f /var/lib/tomcat8/webapps/ROOT/start
 
 sudo ./volume.sh 100
 
-for f in `seq 2 -1 1`
+for f in `seq 20 -1 1`
 do
   ip2=`hostname -I | awk '{print $1}'`
   if [[ "${ip2}" == 192* ]]; then

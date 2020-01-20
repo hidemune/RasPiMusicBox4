@@ -66,6 +66,7 @@ do
           sudo echo "`sed -n 1P ${qfiles[0]}`" > /var/lib/tomcat8/webapps/ROOT/nowplay
         else
           sudo echo `sed -n 4P ${qfiles[0]}` > /var/lib/tomcat8/webapps/ROOT/nowplay
+          sudo echo `sed -n 5P ${qfiles[0]}` >> /var/lib/tomcat8/webapps/ROOT/nowplay
         fi
         ./PlMusicHireso.sh "`sed -n 1P ${qfiles[0]}`" "`sed -n 2P ${qfiles[0]}`" "`sed -n 3P ${qfiles[0]}`"
         mv -f ${qfiles[0]} /var/lib/tomcat8/webapps/ROOT/playque
@@ -81,6 +82,7 @@ do
           sudo echo "`sed -n 1P ${qfiles[0]}`" > /var/lib/tomcat8/webapps/ROOT/nowplay
         else
           sudo echo `sed -n 4P ${qfiles[0]}` > /var/lib/tomcat8/webapps/ROOT/nowplay
+          sudo echo `sed -n 5P ${qfiles[0]}` >> /var/lib/tomcat8/webapps/ROOT/nowplay
         fi
         ./PlMusicHireso.sh "`sed -n 1P ${qfiles[0]}`" "`sed -n 2P ${qfiles[0]}`" "`sed -n 3P ${qfiles[0]}`"
         mv -f ${qfiles[0]} /var/lib/tomcat8/webapps/ROOT/playque

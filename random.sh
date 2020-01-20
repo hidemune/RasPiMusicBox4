@@ -31,6 +31,7 @@ if [ "${fileNm[3]}" == "" ]; then
   echo ${fileNm[0]} > /var/lib/tomcat8/webapps/ROOT/nowplay
 else
   echo ${fileNm[3]} > /var/lib/tomcat8/webapps/ROOT/nowplay
+  echo ${fileNm[1]} >> /var/lib/tomcat8/webapps/ROOT/nowplay
 fi
 
 vol="${fileNm[4]}"

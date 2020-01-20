@@ -27,6 +27,7 @@
   String volume = request.getParameter("volume");
   String effect = request.getParameter("effect");
   String title = request.getParameter("title");
+  String artist = request.getParameter("artist");
   if (strTxt != null) {
     //strTxt = "'" + strTxt + "'";
     out.println("入力：" + strTxt + " / vol:" + volume + "：予約します");
@@ -61,6 +62,15 @@
     if (title != null) {
       //write
       objBw.write(title);
+      objBw.write("\n");
+    } else {
+      objBw.write("");
+      objBw.write("\n");
+    }
+
+    if (artist != null) {
+      //write
+      objBw.write(artist);
       objBw.write("\n");
     } else {
       objBw.write("");

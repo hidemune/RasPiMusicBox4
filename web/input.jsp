@@ -353,7 +353,7 @@ function getText(unit) {
 <div id="app">
   <v-client-table :columns="columns" :data="data" :options="options" :sort-order="sortOrder">
     <slot slot="url" slot-scope="props">
-    <button :id="props.row.id" @click="submitForm(props.row.title,  props.row.url,'','')" style="height: 4em;  background-color: #cccccc; ">Play</button>
+    <button :id="props.row.id" @click="submitForm(props.row.title,  props.row.url,'',props.row.artist)" style="height: 4em;  background-color: #cccccc; ">Play</button>
     <button :id="props.row.id" @click="getLyric(props.row.title,  props.row.artist)" style="height: 4em;  background-color: #cccccc; ">Lyric</button>
     </slot>
   </v-client-table>
@@ -399,7 +399,7 @@ new Vue({
     }
   },
   methods: {
-    submitForm: function (title, filename, oops, id) {
+    submitForm: function (title, filename, oops, artist) {
       if (decodeURIComponent(filename) == "-") {
         return false;
       }
@@ -407,7 +407,7 @@ new Vue({
       var http = new XMLHttpRequest();
       http.open("POST", "kettei.jsp", true);
       http.setRequestHeader("Content-type","application/x-www-form-urlencoded");
-      var params = "filename=" + filename + "&effect=" + oops + "&title=" + encodeURIComponent(title,"utf-8") ;
+      var params = "filename=" + filename + "&effect=" + oops + "&title=" + encodeURIComponent(title,"utf-8") + "&artist=" + encodeURIComponent(artist,"utf-8") ;
       http.send(params);
       http.onload = function() {
         $("#header").html( $("#header").html() + "<a href='input.jsp'>" + title + "</a><br>");

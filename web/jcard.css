@@ -61,6 +61,17 @@ input#yoyaku {
 	#main2{
 		margin: 20px;
 	}
+
+
+  #sample2 {
+    margin: 0 0 0 auto;
+	  width: 200px;
+	  height: 80px;
+	  font-size: 1em;
+    cursor: pointer;
+    z-index: 100;
+  }
+
 	
   /* CSS */
   #sample label{

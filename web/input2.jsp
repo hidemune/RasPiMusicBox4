@@ -21,6 +21,8 @@
 
 <a href="input2.jsp" target="_top">
 <%
+  String song = "";
+  String artist = "";
   //write
   FileWriter objFwS=new FileWriter(application.getRealPath("start"));
   BufferedWriter objBwS=new BufferedWriter(objFwS);
@@ -32,10 +34,17 @@
   if (fileN.exists()) {
     BufferedReader objBr = new BufferedReader(new InputStreamReader(new FileInputStream(fileN),"UTF-8"));
     String line = "";
+    int ln = 0;
     while((line = objBr.readLine()) != null){
-      out.println((idx) + ":" + line + "<br>");
-      idx++;
-      break;
+      if (ln == 0) {
+        song = line;
+        out.println((idx) + ":" + line + "<br>");
+        idx++;
+      } else if (ln == 1) {
+        artist = line;
+        break;
+      }
+      ln = ln + 1;
     }
     objBr.close();
   }
@@ -171,9 +180,25 @@
     <iframe seamless src="volume2.jsp" width="100%" height="100%" frameborder="0" scrolling="auto"></iframe>
     </div> <!-- id="lt2" ここまで左メニューです -->
 
+
 </div>
+
+
+
 <div id="main"><!-- ########## ここから本文です ########## -->
 <div id="main2"><!-- 縁を 20px あけるためのものです -->
+
+<script language="javascript" type="text/javascript">
+  function getLyric(artist, song) {
+    var win = window.open("https://search.yahoo.co.jp/search?p=" + encodeURIComponent("歌詞 " + artist + " " + song) + "&ei=UTF-8", '_blank');
+    win.focus();
+  }
+</script>
+
+<div id="sample2">
+
+  <a href='javascript:getLyric("<%= artist %>", "<%= song %>")', '_blank'>(^o^)Lyric</a>
+</div>
 
 
 <a href="input.jsp">Sheet</a><br>
@@ -229,7 +254,7 @@ var tsv = getCsv();
     paths.forEach( function( path ) {
       //console.log( path );
       if (path == paths[paths.length-1]) {
-        preobj['children'].push ( {'name': path, 'fullpath': cols[0] , 'title': cols[3] });
+        preobj['children'].push ( {'name': path, 'fullpath': cols[0] , 'title': cols[3] , 'artist': cols[1]});
       } else {
         var flg = false;
         //console.log( '1)Pre is : ' + preobj['name'] );
@@ -261,7 +286,7 @@ var tsv = getCsv();
 // demo data
 var treeData = get_treeData()
 
-function submitForm(title, filename, oops, id) {
+function submitForm(title, filename, oops, artist) {
   if (decodeURIComponent(filename) == "-") {
     return false;
   }
@@ -269,10 +294,10 @@ function submitForm(title, filename, oops, id) {
   var http = new XMLHttpRequest();
   http.open("POST", "kettei.jsp", true);
   http.setRequestHeader("Content-type","application/x-www-form-urlencoded");
-  var params = "filename=" + filename + "&effect=" + oops  + "&title=" + encodeURIComponent(title);
+  var params = "filename=" + filename + "&effect=" + oops  + "&title=" + encodeURIComponent(title) + "&artist=" + encodeURIComponent(artist);
   http.send(params);
   http.onload = function() {
-    $("#header").html( $("#header").html() + "<a href='input.jsp'>" + title + "</a><br>");
+    $("#header").html( $("#header").html() + "<a href='input2.jsp'>" + title + "</a><br>");
     $("#header").css("background-color", "#00cccc");
     
     setTimeout(function () {
@@ -320,7 +345,7 @@ Vue.component('tree-item', {
         this.isOpen = !this.isOpen
       } else {
         //alert(this.item.fullpath + '\n' + this.item.title);
-        submitForm(this.item.title, encodeURIComponent(this.item.fullpath), '' , '');
+        submitForm(this.item.title, encodeURIComponent(this.item.fullpath), '' , this.item.artist);
       }
     },
 

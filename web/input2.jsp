@@ -197,7 +197,7 @@
 
 <div id="sample2">
 
-  <a href='javascript:getLyric("<%= artist %>", "<%= song %>")', '_blank'>(^o^)Lyric</a>
+  <a href='javascript:getLyric("<%= artist.replace("\"", "").replace("'", "") %>", "<%= song.replace("\"", "").replace("'", "") %>")', '_blank'>(^o^)Lyric</a>
 </div>
 
 

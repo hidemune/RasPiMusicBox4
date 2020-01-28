@@ -61,5 +61,5 @@ else
 fi
 
 aplay url.wav
-sudo touch /var/lib/tomcat8/webapps/ROOT/start
-sudo chmod 777 /var/lib/tomcat8/webapps/ROOT/start
+#sudo touch /var/lib/tomcat8/webapps/ROOT/start
+#sudo chmod 777 /var/lib/tomcat8/webapps/ROOT/start

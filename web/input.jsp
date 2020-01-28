@@ -58,11 +58,6 @@
 
 
 
-  //write
-  FileWriter objFwS=new FileWriter(application.getRealPath("start"));
-  BufferedWriter objBwS=new BufferedWriter(objFwS);
-  objBwS.write("1");
-  objBwS.close();
 
   int idx = 1;
   File fileN = new File(application.getRealPath("nowplay"));
@@ -111,8 +106,26 @@
 <%
   request.setCharacterEncoding("UTF-8");
 
+  String wgt = request.getParameter("wgt");
+  if (wgt != null) {
+    //write
+    FileWriter objFw=new FileWriter(application.getRealPath("wgt"));
+    BufferedWriter objBw=new BufferedWriter(objFw);
+    objBw.write(wgt);
+    objBw.close();
+  }
+
+
   String volume = request.getParameter("volume");
   if (volume != null) {
+    if (volume == "99") {
+      //write
+      FileWriter objFwS=new FileWriter(application.getRealPath("start"));
+      BufferedWriter objBwS=new BufferedWriter(objFwS);
+      objBwS.write("1");
+      objBwS.close();
+    }
+
     //write
     FileWriter objFw=new FileWriter(application.getRealPath("volume"));
     BufferedWriter objBw=new BufferedWriter(objFw);
@@ -211,6 +224,8 @@
 </div>
 <div id="main"><!-- ########## ここから本文です ########## -->
 <div id="main2"><!-- 縁を 20px あけるためのものです -->
+
+<img border="0" src="../weightkcal.jpg" width="100%" alt="graph"><br>
 
 <a href="input2.jsp">Tree</a><br>
 

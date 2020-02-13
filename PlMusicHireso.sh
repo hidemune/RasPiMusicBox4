@@ -17,6 +17,14 @@ echo Play : 「"$1"」vol: ${volume}
     yes | ffmpeg -i "$1" /run/tmp.wav
     echo "Upsampling : 192k 24bit"
     AUDIODRIVER=alsa play /run/tmp.wav --replay-gain track -r 192k -b 24 -q --buffer 50000 $effect &
+  elif [ "${ext4}" = "webm" ]; then
+    yes | ffmpeg -i "$1" /run/tmp.wav
+    echo "Upsampling : 192k 24bit"
+    AUDIODRIVER=alsa play /run/tmp.wav --replay-gain track -r 192k -b 24 -q --buffer 50000 $effect &
+  elif [ "${ext4}" = ".mkv" ]; then
+    yes | ffmpeg -i "$1" /run/tmp.wav
+    echo "Upsampling : 192k 24bit"
+    AUDIODRIVER=alsa play /run/tmp.wav --replay-gain track -r 192k -b 24 -q --buffer 50000 $effect &
   elif [ "${ext4}" = ".m4v" ]; then
     yes | ffmpeg -i "$1" /run/tmp.wav
     echo "Upsampling : 192k 24bit"

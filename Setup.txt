@@ -1,0 +1,92 @@
+# SDカードへのOS(Linux)の書き込みについて
+
+[Etcher - Balena]
+https://www.balena.io/etcher/
+
+上記Webページにて、SDカード書き込みツールを取得して下さい。
+Windowsならば『Etcher for Windows (x86|x64) (Installer)』がお勧め。
+使い方はGoogle等の検索ページで「etcher 使い方」等で検索し、
+SDカードに以下のイメージを書き込みます。（書き込みには時間がかかります）
+
+イメージ）
+https://downloads.raspberrypi.org/raspbian_latest
+
+参考）
+https://www.raspberrypi.org/downloads/raspbian/
+
+
+# 最初の電源投入
+
+再起動後、
+いろいろ質問されますので、日本語とか適当に設定して下さい。
+
+パスワードを設定して下さい。
+
+
+# インストール
+
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get -y install git
+sudo apt-get -y install openjdk-8-jdk nginx tomcat8 --fix-missing
+sudo apt-get -y install thunar smbclient
+sudo apt-get -y install unclutter handbrake xautomation
+
+
+sudo apt-get install open-jtalk open-jtalk-mecab-naist-jdic hts-voice-nitech-jp-atr503-m001 -y
+
+reboot
+
+git clone https://github.com/hidemune/RaspiFlacPlayer.git
+cd RaspiFlacPlayer
+sudo ./jyunbi.sh
+(ここで、tomcat7系のエラーは無視して構いません)
+
+
+sudo nano /etc/nginx/sites-enabled/default 
+
+
+
+server {
+listen 80;
+server_name localhost;
+
+#charset koi8-r;
+
+#access_log /var/log/nginx/host.access.log main;
+
+location / {
+root /var/lib/tomcat8/webapps/ROOT;
+proxy_pass http://127.0.0.1:8080;
+proxy_set_header X-Forwarded-Host $host;
+}
+
+#//その他設定
+
+}
+
+
+# sonota
+
+sudo apt-get install -y sox bc xdotool qrencode flac
+cd /home/pi
+mkdir mount
+
+
+sudo nano /etc/xdg/lxsession/LXDE-pi/autostart
+
+#add
+lxterminal -e sudo /home/pi/git/RasPiMusicBox4/usbMusicList.sh
+
+
+# 実行
+sudo ./usbMusicList.sh
+
+
+# CUI mode (No Display) on reboot
+
+sudo nano /etc/crontab
+
+#add
+@reboot root /home/pi/git/RasPiMusicBox4/usbMusicList.sh
+
